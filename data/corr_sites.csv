@@ -1,0 +1,1002 @@
+FoodWeb_ID;Site_name;Ecosystem;Country;Country_ISO;Region;Longitude;Latitude;Old_FW_ID
+ID_0001;Nauyuk_West_Kitikmeot_region;Lentic;Canada;CAN;North America;-107,705072;68,370492;FWB_1
+ID_0002;Doris_West_Kitikmeot_region;Lentic;Canada;CAN;North America;-106,587328;68,123011;FWB_2
+ID_0003;Patch_West_Kitikmeot_region;Lentic;Canada;CAN;North America;-106,544722;68,028844;FWB_3
+ID_0004;Roberts_West_Kitikmeot_region;Lentic;Canada;CAN;North America;-106,521933;68,165236;FWB_4
+ID_0005;Lake_Erie_Eastern_basin;Lentic;Canada;CAN;North America;-79,982269;42,792617;FWB_5
+ID_0006;PluBsee;Lentic;Germany;DEU;Europe;10,383333;54,166667;FWB_6
+ID_0007;Lake_Victoria_Winam_Gulf;Lentic;Kenya;KEN;Africa;34,649039;-0,244106;FWB_7
+ID_0008;Lake_Victoria_Napoleon_Gulf;Lentic;Uganda;UGA;Africa;33,285731;0,342631;FWB_8
+ID_0009;Lake_Malawi_96;Lentic;Malawi;MWI;Africa;34,629906;-13,733392;FWB_9
+ID_0010;Pond_1_ctrl;Lentic;United Kingdom;GBR;Europe;-2,344722;52,219167;FWB_10
+ID_0011;Pond_2_exp;Lentic;United Kingdom;GBR;Europe;-2,344727;52,219172;FWB_11
+ID_0012;Lake_Superior_1897-1929;Lentic;Canada;CAN;North America;-86,950556;47,726397;FWB_12
+ID_0013;Lake_Superior_1934-1966;Lentic;Canada;CAN;North America;-86,950565;47,726406;FWB_13
+ID_0014;Lake_Superior_1972-1998;Lentic;Canada;CAN;North America;-86,950576;47,726417;FWB_14
+ID_0015;Congo;Lotic;Democratic Republic of the Congo;COD;Africa;24,725265;0,598722;NA
+ID_0016;Lubilu;Lotic;Democratic Republic of the Congo;COD;Africa;24,59416667;0,76083333;NA
+ID_0017;Lomami;Lotic;Democratic Republic of the Congo;COD;Africa;24,231292;0,736261;NA
+ID_0018;Lobay;Lotic;Democratic Republic of the Congo;COD;Africa;24,177021;0,495852;NA
+ID_0019;Rappahanock_River_and_tributaries_Virginia;Lotic;United States;USA;North America;-77,034575;38,100519;FWB_19
+ID_0020;Mid-elevation_site_Rio_Espiritu_Santo;Lotic;United States;USA;North America;-65,820506;18,345269;FWB_20
+ID_0021;River_Grande-Anse;Lotic;Guadeloupe;GLP;South America;-61,656444;16,031626;FWB_21
+ID_0022;Hija_River_reservoir_area_of_the_Hija_River;Lotic;Japan;JPN;Asia;127,754444;26,367778;FWB_22
+ID_0023;Haebaru_Reservoir;Lentic;Japan;JPN;Asia;127,740556;26,212778;FWB_23
+ID_0024;Tarn_River;Lotic;France;FRA;Europe;1,5;43,866667;FWB_24
+ID_0025;Lower_Gwydir_River_Gwydir_Wetlands_New_South_Wales;Lotic;Australia;AUS;Oceania;149,33334;-29,333333;FWB_30
+ID_0026;Mehi_River_Gwydir_Wetlands_New_South_Wales;Lotic;Australia;AUS;Oceania;149,5;-29,5833;FWB_31
+ID_0027;Reach_2_San_Juan_River_Texas;Lotic;United States;USA;North America;-109,860297;37,174328;FWB_32
+ID_0028;Reach_3_San_Juan_River_Oklahoma;Lotic;United States;USA;North America;-109,240933;37,239383;FWB_33
+ID_0029;Reach_4_San_Juan_River_Oklahoma;Lotic;United States;USA;North America;-108,939772;36,917928;FWB_34
+ID_0030;Reach_5_San_Juan_River_Kansas;Lotic;United States;USA;North America;-108,738572;36,825047;FWB_35
+ID_0031;Reach_6_San_Juan_River_Kansas;Lotic;United States;USA;North America;-108,359697;36,7334;FWB_36
+ID_0032;Verde_River_Arizona_diverted_flows_Non_Natives_present;Lotic;United States;USA;North America;-111,848211;34,572178;FWB_41
+ID_0033;Site_1_Laja_River_Guanajuato;Lentic;Mexico;MEX;South America;-101;21,75;FWB_42
+ID_0034;Site_2_Laja_River_Guanajuato;Lotic;Mexico;MEX;South America;-101;21,75;FWB_43
+ID_0035;Site_3_Laja_River_Guanajuato;Lotic;Mexico;MEX;South America;-101;21,75;FWB_44
+ID_0036;Site_4_Laja_River_Guanajuato;Lotic;Mexico;MEX;South America;-101;21,75;FWB_45
+ID_0037;Site_5_Laja_River_Guanajuato;Lotic;Mexico;MEX;South America;-101;21,75;FWB_46
+ID_0038;Site_6_Laja_River_Guanajuato;Lotic;Mexico;MEX;South America;-101;21,75;FWB_47
+ID_0039;Site_7_Laja_River_Guanajuato;Lentic;Mexico;MEX;South America;-101;21,75;FWB_48
+ID_0040;Site_8_Laja_River_Guanajuato;Lentic;Mexico;MEX;South America;-101;21,75;FWB_49
+ID_0041;Site_9_Laja_River_Guanajuato;Lotic;Mexico;MEX;South America;-101;21,75;FWB_50
+ID_0042;Site_10_Laja_River_Guanajuato;Lotic;Mexico;MEX;South America;-101;21,75;FWB_51
+ID_0043;Site_11_Laja_River_Guanajuato;Lotic;Mexico;MEX;South America;-101;21,75;FWB_52
+ID_0044;East_Fork_Gila_River_New_Mexico_;Lotic;United States;USA;North America;-108,128483;33,293817;FWB_53
+ID_0045;Middle_Fork_Gila_River_New_Mexico_;Lotic;United States;USA;North America;-108,231328;33,248692;FWB_54
+ID_0046;Heart_Bar_Gila_River_New_Mexico;Lotic;United States;USA;North America;-108,204153;33,195725;FWB_55
+ID_0047;Riverside_Gila_River_New_Mexico_;Lotic;United States;USA;North America;-108,606342;32,940211;FWB_56
+ID_0048;San_Francisco_San_Francisco_River_New_Mexico;Lotic;United States;USA;North America;-108,881144;33,236756;FWB_57
+ID_0049;West_Fork_Gila_River_New_Mexico;Lotic;United States;USA;North America;-108,320981;33,252486;FWB_58
+ID_0050;River_Frome;Lotic;United Kingdom;GBR;Europe;-2,178333;50,667778;FWB_59
+ID_0051;Urban_reach_Kansas_River;Lotic;United States;USA;North America;-96,780025;39,054858;FWB_60
+ID_0052;Intermediate_reach_Kansas_River;Lotic;United States;USA;North America;-95,967367;39,108244;FWB_61
+ID_0053;Low_urban_reach_Kansas_River;Lotic;United States;USA;North America;-94,888158;39,037142;FWB_62
+ID_0054;Upper_Bladden_Monkey_River;Lotic;Belize;BLZ;South America;-88,485667;16,364883;FWB_63
+ID_0055;Upper_Swasey_Monkey_River_;Lotic;Belize;BLZ;South America;-88,586479;16,620504;FWB_64
+ID_0056;Lower_Bladen_Monkey_River_;Lotic;Belize;BLZ;South America;-88,582712;16,417088;FWB_65
+ID_0057;Tai_Po_Kau_Forest_stream_Central_New_Territories;Lotic;China;CHN;Asia;114,185543;22,423803;FWB_66
+ID_0058;Grizzly_Washington;Lotic;United States;USA;North America;-120,844897;48,516772;FWB_67
+ID_0059;Exotic_forest_Waikato_region;Lotic;New Zealand;NZL;Oceania;175,442825;-38,060931;FWB_68
+ID_0060;Pasture_Waikato_region;Lotic;New Zealand;NZL;Oceania;175,442825;-38,060931;FWB_69
+ID_0061;Sverkestaan_south-central_Sweden;Lotic;Sweden;SWE;Europe;15,430208;59,6136;FWB_70
+ID_0062;Hagaan_south-central_Sweden;Lotic;Sweden;SWE;Europe;17,591044;59,841111;FWB_71
+ID_0063;Sagan_south-central_Sweden;Lotic;Sweden;SWE;Europe;16,712167;59,748331;FWB_72
+ID_0064;ID49_Mayfield_1996;Lotic;Australia;AUS;Oceania;142,735;-25,42;FWB_73
+ID_0065;ID50_Mayfield_1996;Lotic;Australia;AUS;Oceania;142,73;-25,43;FWB_74
+ID_0066;ID51_Mayfield_1996;Lotic;Australia;AUS;Oceania;142,72;-25,44;FWB_75
+ID_0067;ID49*_Mayfield_1997;Lotic;Australia;AUS;Oceania;142,735;-25,42;FWB_76
+ID_0068;ID50_Mayfield_1997;Lotic;Australia;AUS;Oceania;142,73;-25,43;FWB_77
+ID_0069;ID51_Mayfield_1997;Lotic;Australia;AUS;Oceania;142,72;-25,44;FWB_78
+ID_0070;ID52*_Tanbar_1997;Lotic;Australia;AUS;Oceania;141,91;-25,84;FWB_79
+ID_0071;ID53_Tanbar_1997;Lotic;Australia;AUS;Oceania;141,88;-25,87;FWB_80
+ID_0072;ID46_Kyabra_Creek_1997;Lotic;Australia;AUS;Oceania;143,05;-25,84;FWB_81
+ID_0073;ID47*_Kyabra_Creek_1997;Lotic;Australia;AUS;Oceania;143,040998;-25,820908;FWB_82
+ID_0074;ID48_Kyabra_Creek_1997;Lotic;Australia;AUS;Oceania;143,07;-25,875;FWB_83
+ID_0075;ID56_Barcoo-Welford_1997;Lotic;Australia;AUS;Oceania;143,2;-25,19;FWB_84
+ID_0076;ID57_Barcoo-Welford_1997;Lotic;Australia;AUS;Oceania;143,34;-25,18;FWB_85
+ID_0077;Stewart_Lake_Nunavik;Lentic;Canada;CAN;North America;-68,433333;58,183333;FWB_101
+ID_0078;Lough_Neagh;Lentic;United Kingdom;GBR;Europe;-6,414578;54,591933;FWB_102
+ID_0079;Pend_Oreille_Lake_Idaho;Lentic;United States;USA;North America;-116,366667;48,16;FWB_103
+ID_0080;Pend_Oreille_Lake_Idaho;Lentic;United States;USA;North America;-116,366667;48,16;FWB_104
+ID_0081;Bonlieu_Jura_region;Lentic;France;FRA;Europe;5,874361;46,587133;FWB_106
+ID_0082;Chalain_Jura_region;Lentic;France;FRA;Europe;5,792883;46,669983;FWB_107
+ID_0083;Clairvaux_Jura_region;Lentic;France;FRA;Europe;5,749925;46,566175;FWB_108
+ID_0084;Ilay_Jura_region;Lentic;France;FRA;Europe;5,891225;46,620939;FWB_109
+ID_0085;Maclu_Jura_region;Lentic;France;FRA;Europe;5,907375;46,624183;FWB_110
+ID_0086;Narlay_Jura_region;Lentic;France;FRA;Europe;5,912144;46,642453;FWB_111
+ID_0087;Remoray_Jura_region;Lentic;France;FRA;Europe;6,265828;46,771361;FWB_112
+ID_0088;Saint-Point_Jura_region;Lentic;France;FRA;Europe;6,298867;46,802492;FWB_113
+ID_0089;Lake_Huron_Michigan;Lentic;Canada;CAN;North America;-83,324229;45,083948;FWB_114
+ID_0090;Lake_Huron_Middle_Island;Lentic;Canada;CAN;North America;-83,327295;45,198415;FWB_115
+ID_0091;Lake_Huron_Squaw_Bay;Lentic;Canada;CAN;North America;-83,455886;45,004585;FWB_116
+ID_0092;Lake_Kyoga_Iyingo;Lentic;Uganda;UGA;Africa;32,948317;1,501347;FWB_117
+ID_0093;Lake_Kyoga_Bukungu;Lentic;Uganda;UGA;Africa;32,948317;1,501347;FWB_118
+ID_0094;Blue_Mesa_Colorado_Summer;Lentic;United States;USA;North America;-107,328291;38,455017;FWB_119
+ID_0095;Blue_Mesa_Reservoir_Colorado_Fall;Lentic;United States;USA;North America;-107,328291;38,455017;FWB_120
+ID_0096;Lake_Granby_Colorado_Spring;Lentic;United States;USA;North America;-105,866883;40,149251;FWB_121
+ID_0097;Lake_Granby_Colorado_Fall;Lentic;United States;USA;North America;-105,866883;40,149251;FWB_122
+ID_0098;Lake_Superior;Lentic;Canada;CAN;North America;-91,241889;47,047328;FWB_123
+ID_0099;Lake_Baringo;Lentic;Kenya;KEN;Africa;36,068322;0,6237;FWB_124
+ID_0100;Lake_Malawi_91;Lentic;Malawi;MWI;Africa;35,066539;-14,147856;FWB_125
+ID_0101;Lake_Poyang_dry_season;Lentic;China;CHN;Asia;116,185416;29,71875;FWB_126
+ID_0102;Lake_Poyang_wet_season;Lentic;China;CHN;Asia;116,185416;29,71875;FWB_127
+ID_0103;Bayfield_Hall_Lake;Lentic;United Kingdom;GBR;Europe;1,046226;52,921194;FWB_128
+ID_0104;Fly_River_system_Kawok_Gill_nets;Lotic;Papua New Guinea;PNG;Asia;141,15489;-6,164449;FWB_130
+ID_0105;Fly_River_system_Kawok_Saccharum_-sweeps;Lotic;Papua New Guinea;PNG;Asia;141,15489;-6,164449;FWB_131
+ID_0106;Fly_River_system_Oxbow_6_Gill_nets;Lentic;Papua New Guinea;PNG;Asia;140,8891;-6,7128;FWB_132
+ID_0107;Fly_River_system_Oxbow_6_Flooded_forest;Lentic;Papua New Guinea;PNG;Asia;140,8891;-6,7128;FWB_133
+ID_0108;Lake_Albert;Lentic;Uganda;UGA;Africa;30,987633;1,768603;FWB_134
+ID_0109;Lake_Großer_Vätersee;Lentic;Germany;DEU;Europe;13,552669;53,004689;FWB_135
+ID_0110;Lake_Vallum;Lentic;Denmark;DNK;Europe;10,516667;56,383333;FWB_136
+ID_0111;Sewage-exposed_sites_St_Lawrence_River_;Lotic;Canada;CAN;North America;-73,457086;45,700725;FWB_140
+ID_0112;Reference_sites_St_Lawrence_River_;Lotic;Canada;CAN;North America;-73,343306;45,807328;FWB_141
+ID_0113;Upstream_site_Little_Mulberry_Creek_March_2006;Lotic;United States;USA;North America;-93,594444;35,761111;FWB_142
+ID_0114;Upstream_site_Little_Mulberry_Creek_July_2006;Lotic;United States;USA;North America;-93,594444;35,761111;FWB_143
+ID_0115;Upstream_site_Little_Mulberry_Creek_March_2007;Lotic;United States;USA;North America;-93,594444;35,761111;FWB_144
+ID_0116;Upstream_site_Little_Mulberry_Creek_July_2007;Lotic;United States;USA;North America;-93,594444;35,761111;FWB_145
+ID_0117;Upstream_site_Little_Mulberry_Creek_December_2007;Lotic;United States;USA;North America;-93,594444;35,761111;FWB_146
+ID_0118;Mouth_site_Little_Mulberry_Creek_March_2006;Lotic;United States;USA;North America;-93,664444;35,6725;FWB_147
+ID_0119;Mouth_site_Little_Mulberry_Creek_July_2006;Lotic;United States;USA;North America;-93,664444;35,6725;FWB_148
+ID_0120;Mouth_site_Little_Mulberry_Creek_March_2007;Lotic;United States;USA;North America;-93,664444;35,6725;FWB_149
+ID_0121;Mouth_site_Little_Mulberry_Creek_July_2007;Lotic;United States;USA;North America;-93,664444;35,6725;FWB_150
+ID_0122;Mulberry_River_March_2006;Lotic;United States;USA;North America;-93,632778;35,673611;FWB_151
+ID_0123;Mulberry_River_July_2006;Lotic;United States;USA;North America;-93,632778;35,673611;FWB_152
+ID_0124;Mulberry_River_March_2007;Lotic;United States;USA;North America;-93,632778;35,673611;FWB_153
+ID_0125;Mulberry_River_July_2007;Lotic;United States;USA;North America;-93,632778;35,673611;FWB_154
+ID_0126;Mulberry_River_December_2007;Lotic;United States;USA;North America;-93,632778;35,673611;FWB_155
+ID_0127;Upper_Mississippi_River_1993;Lotic;United States;USA;North America;-89,467583;37,216472;FWB_156
+ID_0128;Upper_Mississippi_River_1994;Lotic;United States;USA;North America;-89,467583;37,216472;FWB_157
+ID_0129;Missouri_River_1993;Lotic;United States;USA;North America;-91,4385;38,709806;FWB_158
+ID_0130;Missouri_River_1994;Lotic;United States;USA;North America;-91,4385;38,709806;FWB_159
+ID_0131;Ohio_River_1993;Lotic;United States;USA;North America;-88,740833;37,1475;FWB_160
+ID_0132;Ohio_River_1994;Lotic;United States;USA;North America;-88,740833;37,1475;FWB_161
+ID_0133;Kings_Creek_June/July_1995;Lotic;United States;USA;North America;-96,606438;39,106587;FWB_162
+ID_0134;Kings_Creek_December_1995;Lotic;United States;USA;North America;-96,606438;39,106587;FWB_163
+ID_0135;Nicola_Lake;Lentic;Brazil;BRA;South America;-52,529053;-3,555053;FWB_164
+ID_0136;Reach_13_Upper_Mississippi_River_Summer_1998;Lotic;United States;USA;North America;-90,205278;42,146111;FWB_165
+ID_0137;Reach_13_Upper_Mississippi_River_Summer_1999;Lotic;United States;USA;North America;-90,205278;42,146111;FWB_166
+ID_0138;Reach_26_Upper_Mississippi_River_Summer_1998;Lotic;United States;USA;North America;-90,500556;38,923889;FWB_167
+ID_0139;Reach_26_Upper_Mississippi_River_Summer_1999;Lotic;United States;USA;North America;-90,500556;38,923889;FWB_168
+ID_0140;Hakalau_Stream_1998;Lotic;United States;USA;North America;-155,131257;19,898078;FWB_169
+ID_0141;Hakalau_Stream_1999;Lotic;United States;USA;North America;-155,131257;19,898078;FWB_170
+ID_0142;Lake_Annecy_1998;Lentic;France;FRA;Europe;6,166667;45,85;FWB_171
+ID_0143;Lake_Annecy_2001;Lentic;France;FRA;Europe;6,166667;45,85;FWB_172
+ID_0144;Lake_Annecy_2007;Lentic;France;FRA;Europe;6,166667;45,85;FWB_173
+ID_0145;Lake_Annecy_2008;Lentic;France;FRA;Europe;6,166667;45,85;FWB_174
+ID_0146;Great_Fish_River;Lotic;South Africa;ZAF;Africa;26,781344;-33,088747;FWB_175
+ID_0147;Sundays_River;Lotic;South Africa;ZAF;Africa;25,794625;-33,696319;FWB_176
+ID_0148;Glen_Melville_Dam;Lentic;South Africa;ZAF;Africa;26,645942;-33,193881;FWB_177
+ID_0149;Lake_Superior_Allouez_Bay_Wisconsin;Lentic;United States;USA;North America;-92,006639;47,53271;FWB_178
+ID_0150;Lake_Superior_Offshore_Wisconsin;Lentic;United States;USA;North America;-89,548415;47,53271;FWB_179
+ID_0151;Lake_Malawi_98;Lentic;Malawi;MWI;Africa;35,066886;-14,144192;FWB_180
+ID_0152;Baia_River;Lotic;Brazil;BRA;South America;-53,227909;-22,688389;FWB_181
+ID_0153;Lake_Taihu;Lentic;China;CHN;Asia;120,192;31,246;FWB_182
+ID_0154;Cuatro_Ciénegas_Poza_Churince;Lotic;Mexico;MEX;South America;-102,118481;26,923199;FWB_183
+ID_0155;Batchawana_River_unregulated_before;Lotic;Canada;CAN;North America;-84,450028;47,115747;FWB_184
+ID_0156;Batchawana_River_unregulated_after;Lotic;Canada;CAN;North America;-84,450028;47,115747;FWB_185
+ID_0157;Magpie_River_regulated_before;Lotic;Canada;CAN;North America;-84,812872;48,016913;FWB_186
+ID_0158;Magpie_River_regulated_after;Lotic;Canada;CAN;North America;-84,812872;48,016913;FWB_187
+ID_0159;Lake_Washington_Washington;Lentic;United States;USA;North America;-122,259383;47,6097;FWB_188
+ID_0160;Kintla_Lake_Montana;Lentic;United States;USA;North America;-114,319669;48,953836;FWB_189
+ID_0161;Bowman_Lake_Montana;Lentic;United States;USA;North America;-114,1535;48,872619;FWB_190
+ID_0162;Quartz_Lake_Montana;Lentic;United States;USA;North America;-114,116014;48,822856;FWB_191
+ID_0163;Lower_Quartz_Lake_Montana;Lentic;United States;USA;North America;-114,173097;48,807133;FWB_192
+ID_0164;Logging_Lake_Montana;Lentic;United States;USA;North America;-114,072981;48,758958;FWB_193
+ID_0165;Lake_McDonald_Montana;Lentic;United States;USA;North America;-113,925575;48,583292;FWB_194
+ID_0166;Harrison_Lake_Montana;Lentic;United States;USA;North America;-113,761967;48,522458;FWB_195
+ID_0167;Polo_Stream;Lotic;Mexico;MEX;South America;-92,633333;18,483333;FWB_196
+ID_0168;Shasta_Lake_California;Lentic;United States;USA;North America;-122,371897;40,760067;FWB_199
+ID_0169;Sélingué_Reservoir_Carrière_Low_Water;Lentic;Mali;MLI;Africa;-8,181782;11,575225;FWB_200
+ID_0170;Sélingué_Reservoir_Balé_Low_Water;Lentic;Mali;MLI;Africa;-8,13715;11,496174;FWB_201
+ID_0171;Sélingué_Reservoir_Carrière_High_Water;Lentic;Mali;MLI;Africa;-8,181782;11,575225;FWB_202
+ID_0172;Sélingué_Reservoir_Balé_High_Water;Lentic;Mali;MLI;Africa;-8,13715;11,496174;FWB_203
+ID_0173;Lake_Tahoe_California-Nevada_1872-1894;Lentic;United States;USA;North America;-120,031692;39,109806;FWB_204
+ID_0174;Lake_Tahoe_California-Nevada_1904-1913;Lentic;United States;USA;North America;-120,031692;39,109806;FWB_205
+ID_0175;Lake_Tahoe_California-Nevada_1927-1942;Lentic;United States;USA;North America;-120,031692;39,109806;FWB_206
+ID_0176;Lake_Tahoe_California-Nevada_1959-1966;Lentic;United States;USA;North America;-120,031692;39,109806;FWB_207
+ID_0177;Lake_Tahoe_California-Nevada_1998-2000;Lentic;United States;USA;North America;-120,031692;39,109806;FWB_208
+ID_0178;Cascade_Lake_California_2000;Lentic;United States;USA;North America;-120,091075;38,939633;FWB_209
+ID_0179;Peter_Lake_Northwest_Territories;Lentic;Canada;CAN;North America;-92,6;63,166667;FWB_210
+ID_0180;Lake_Michigan_Grand_Traverse_Bay_Michigan;Lentic;United States;USA;North America;-85,5;44,900833;FWB_212
+ID_0181;Savanna_Bay_Illinois_Summer_1998;Lentic;United States;USA;North America;-90,159131;42,117939;FWB_213
+ID_0182;Long_Lake_Missouri_Summer_1998;Lentic;United States;USA;North America;-90,417889;38,954503;FWB_214
+ID_0183;Lake_Apopka;Lentic;United States;USA;North America;-81,624881;28,623547;FWB_215
+ID_0184;Lake_Kyoga;Lentic;Uganda;UGA;Africa;32,945225;1,503975;FWB_216
+ID_0185;Lake_Malawi_Littoral_area;Lentic;Malawi;MWI;Africa;34,423397;-11,942664;FWB_217
+ID_0186;Lake_240_Experimental_Lakes_Area=boundary_lake_Northwestern_Ontario;Lentic;Canada;CAN;North America;-93,726386;49,654894;FWB_218
+ID_0187;Lake_373_Experimental_Lakes_Area_Northwestern_Ontario;Lentic;Canada;CAN;North America;-93,799728;49,744206;FWB_219
+ID_0188;Trout_Lake_Northwestern_Ontario;Lentic;Canada;CAN;North America;-93,350688;51,195059;FWB_220
+ID_0189;Lakes_Orsinera_Tineo_Fundacion_Tasajeros_Orinoco_River_floodplain_;Lentic;Venezuela;VEN;South America;-63,338042;8,229892;FWB_221
+ID_0190;Lake_Roosevelt_Washington_summer;Lentic;United States;USA;North America;-118,341722;47,896478;FWB_223
+ID_0191;IJssel_branch_Rhine_River;Lotic;Netherlands;NLD;Europe;5,922014;52,557464;FWB_224
+ID_0192;Lake_Saka_2000;Lentic;Uganda;UGA;Africa;30,242908;0,692594;FWB_225
+ID_0193;Lake_Tanganyika;Lentic;Tanzania;TZA;Africa;29,626344;-4,875978;FWB_226
+ID_0194;Lookout_Creek_Oregon;Lotic;United States;USA;North America;-122,255556;44,209722;FWB_227
+ID_0195;Beaverton_Creek_Oregon;Lotic;United States;USA;North America;-122,898333;45,520833;FWB_228
+ID_0196;St._Marys_Florida;Lotic;United States;USA;North America;-82,081667;30,358611;FWB_229
+ID_0197;Santa_Fe_River_Florida;Lotic;United States;USA;North America;-82,715278;29,848611;FWB_230
+ID_0198;Little_Wekiva_River_Florida;Lotic;United States;USA;North America;-81,392222;28,701944;FWB_231
+ID_0199;Mekong_Delta;Lotic;Vietnam;VNM;Asia;105,806208;10,047458;FWB_232
+ID_0200;Lake_Superior_Allouez_Bay_Wisconsin;Lentic;United States;USA;North America;-91,997942;46,689258;FWB_233
+ID_0201;Lake_Ontario_Waupoos_site_Spring;Lentic;Canada;CAN;North America;-77,998;44,001;FWB_234
+ID_0202;Lake_Ontario_Waupoos_site_Summer;Lentic;Canada;CAN;North America;-77,998;44,001;FWB_235
+ID_0203;Lake_Ontario_Waupoos_site_Fall;Lentic;Canada;CAN;North America;-77,998;44,001;FWB_236
+ID_0204;Lake_Baikal__Pelagic_area;Lentic;Russia;RUS;Asia;107,847061;53,149241;FWB_241
+ID_0205;Lake_Superior_Ecoregion_1_Ontario;Lentic;United States;USA;North America;-87,8544;48,778303;FWB_242
+ID_0206;Lake_Superior_Ecoregion_2_Michigan-Ontario;Lentic;United States;USA;North America;-84,742714;46,675664;FWB_243
+ID_0207;Lake_Superior_Ecoregion_3_Michigan;Lentic;United States;USA;North America;-87,347133;46,632017;FWB_244
+ID_0208;Lake_Superior_Ecoregion_5_Wisconsin;Lentic;United States;USA;North America;-90,385222;46,801092;FWB_245
+ID_0209;Lake_Superior_Ecoregion_6_Wisconsin;Lentic;United States;USA;North America;-91,589453;46,875017;FWB_246
+ID_0210;Lake_Superior_Black_Bay_Ontario;Lentic;United States;USA;North America;-88,42975;48,746664;FWB_247
+ID_0211;Lake_Bom_Intento_April_2000;Lentic;Brazil;BRA;South America;-55,589444;-3,978056;FWB_248
+ID_0212;Lake_Bom_Intento_January_2001;Lentic;Brazil;BRA;South America;-55,589444;-3,978056;FWB_249
+ID_0213;Lake_Pereira_April_2000;Lentic;Brazil;BRA;South America;-55,601111;-4,035;FWB_250
+ID_0214;Lake_Pereira_January_2001;Lentic;Brazil;BRA;South America;-55,601111;-4,035;FWB_251
+ID_0215;Lake_Chelan_Washington;Lentic;United States;USA;North America;-120,472183;48,078996;FWB_252
+ID_0216;Lake_Alexie;Lentic;Canada;CAN;North America;-114,080029;62,674774;FWB_253
+ID_0217;Lake_Baptiste;Lentic;Canada;CAN;North America;-114,216667;62,7;FWB_254
+ID_0218;Lake_Chitty;Lentic;Canada;CAN;North America;-114,116667;62,7;FWB_255
+ID_0219;Lake_Drygeese;Lentic;Canada;CAN;North America;-114,166667;62,733333;FWB_256
+ID_0220;Caddo_Lake_Forested_wetland_Texas-Louisiana;Lentic;United States;USA;North America;-94,018833;32,710739;FWB_258
+ID_0221;Caddo_Lake_Open_Water_Texas-Louisiana;Lentic;United States;USA;North America;-94,018833;32,710739;FWB_259
+ID_0222;Lake_Victoria_Thruston_Bay;Lentic;Uganda;UGA;Africa;33,37725;0,46406;FWB_260
+ID_0223;Pelican_Bay_Sacramento-San_Joaquin_delta_California;Lotic;United States;USA;North America;-121,646469;38,052248;FWB_261
+ID_0224;Old_River_Sacramento-San_Joaquin_delta_California;Lotic;United States;USA;North America;-121,57927;38,067757;FWB_262
+ID_0225;Lake_Murray;Lentic;Papua New Guinea;PNG;Asia;141,518784;-6,990496;FWB_263
+ID_0226;Grand-Anse_River_dry_season;Lotic;Guadeloupe;GLP;South America;-61,656444;16,031626;FWB_264
+ID_0227;KBWPS-2_Lake_Balaton;Lentic;Hungary;HUN;Europe;17,260633;46,688886;FWB_265
+ID_0228;Thousand_Islands_region_St_Lawrence_River_;Lotic;United States;USA;North America;-76,04845;44,27028;FWB_266
+ID_0229;Lake_Huron;Lentic;Canada;CAN;North America;-81,958675;46,031089;FWB_267
+ID_0230;Réservoir_de_l'Astarac_Gers;Lentic;France;FRA;Europe;0,6322;43,3831;FWB_268
+ID_0231;Lac_des_Bariousses_Corrèze;Lentic;France;FRA;Europe;1,8239;45,5656;FWB_269
+ID_0232;Barrage_de_Candes_Lot;Lentic;France;FRA;Europe;1,9769;44,9525;FWB_270
+ID_0233;Lac_de_Castillon_Alpes-de-Haute-Provence;Lentic;France;FRA;Europe;6,5342;43,9106;FWB_271
+ID_0234;Lac_de_Charpal_Lozère;Lentic;France;FRA;Europe;3,5786;44,6236;FWB_272
+ID_0235;Retenue_de_Duhort-Bachen_Landes;Lentic;France;FRA;Europe;2,3692;43,7372;FWB_273
+ID_0236;Lac_du_barrage_d'Enchanet;Lentic;France;FRA;Europe;2,2253;45,0775;FWB_274
+ID_0237;Lac_d'Esparron_Alpes-de-Haute-Provence;Lentic;France;FRA;Europe;5,9556;43,735;FWB_275
+ID_0238;Retenue_de_l'Estrade_Aude;Lentic;France;FRA;Europe;1,8094;43,3158;FWB_276
+ID_0239;Lac_de_Gensac_Tarn-et-Garonne;Lentic;France;FRA;Europe;0,9556;43,9644;FWB_277
+ID_0240;Lac_du_Gouyre_Tarn-et-Garonne;Lentic;France;FRA;Europe;1,6064;44,047222;FWB_278
+ID_0241;Retenue_d'Hagetmau-Monségur_Landes;Lentic;France;FRA;Europe;-0,5689;43,6339;FWB_279
+ID_0242;Barrage_du_Mas_Chaban_Charentes;Lentic;France;FRA;Europe;-0,6444;45,8181;FWB_280
+ID_0243;Lac_du_Salagou_Hérault;Lentic;France;FRA;Europe;3,3717;43,6528;FWB_281
+ID_0244;Lac_du_Tolerme_Lot;Lentic;France;FRA;Europe;2,0525;44,8233;FWB_282
+ID_0245;Barrage_de_la_Touche_Poupard_Deux-Sèvres;Lentic;France;FRA;Europe;-0,1944;46,4661;FWB_283
+ID_0246;Lake_Sammamish_Washington;Lentic;United States;USA;North America;-122,095158;47,584106;FWB_284
+ID_0247;Coqueiro_Lake_Pantanal_wetland_dry_season;Lentic;Brazil;BRA;South America;-56,37;-16,253333;FWB_286
+ID_0248;Coqueiro_Lake_Pantanal_wetland_wet_season;Lentic;Brazil;BRA;South America;-56,37;-16,253333;FWB_287
+ID_0249;Mulgrave_River_dry_season;Lotic;Australia;AUS;Oceania;145,875034;-17,135213;FWB_288
+ID_0250;Mulgrave_River_wet_season;Lotic;Australia;AUS;Oceania;145,875034;-17,135213;FWB_289
+ID_0251;Cutler_Reservoir_Utah;Lentic;United States;USA;North America;-111,954881;41,800117;FWB_290
+ID_0252;Loch_Ness;Lentic;United Kingdom;GBR;Europe;-4,449953;57,299975;FWB_291
+ID_0253;MCC_Mitchell_River_early_dry;Lotic;Australia;AUS;Oceania;144,891;-16,562;FWB_292
+ID_0254;MCC_Mitchell_River_late_dry;Lotic;Australia;AUS;Oceania;144,891;-16,562;FWB_293
+ID_0255;GMB_Mitchell_River_early_dry;Lotic;Australia;AUS;Oceania;143,626;-16,516;FWB_294
+ID_0256;KGS_Mitchell_River_early_dry;Lotic;Australia;AUS;Oceania;142,378;-15,946;FWB_295
+ID_0257;KGS_Mitchell_River_late_dry;Lotic;Australia;AUS;Oceania;142,378;-15,946;FWB_296
+ID_0258;Fish_Hole_Creek_Mitchell_River_floodplain_early_dry;Lotic;Australia;AUS;Oceania;141,591667;-15,202778;FWB_297
+ID_0259;Fish_Hole_Creek_Mitchell_River_floodplain_late_dry;Lotic;Australia;AUS;Oceania;141,591667;-15,202778;FWB_298
+ID_0260;Rio_Las_Marias;Lotic;Venezuela;VEN;South America;-69,733333;9,166667;FWB_299
+ID_0261;Arizona_streams_Verde_River_Arizona;Lotic;United States;USA;North America;-111,882947;34,590633;FWB_300
+ID_0262;Waipa_River_Waikato_River_basin;Lotic;New Zealand;NZL;Oceania;175,143925;-37,661208;FWB_301
+ID_0263;Mangawara_River_Waikato_River_basin;Lotic;New Zealand;NZL;Oceania;175,189422;-37,610228;FWB_302
+ID_0264;Waahi_Stream_Waikato_River_basin;Lotic;New Zealand;NZL;Oceania;175,156778;-37,526347;FWB_303
+ID_0265;Whangape_Stream_Waikato_River_basin;Lotic;New Zealand;NZL;Oceania;175,0778;-37,426814;FWB_304
+ID_0266;Opuatia_Stream_Waikato_River_basin;Lotic;New Zealand;NZL;Oceania;175,057522;-37,410075;FWB_305
+ID_0267;Whangamarino_River_Waikato_River_basin;Lotic;New Zealand;NZL;Oceania;175,099947;-37,33055;FWB_306
+ID_0268;Mangatawhiri_River_Waikato_River_basin;Lotic;New Zealand;NZL;Oceania;175,039289;-37,272;FWB_307
+ID_0269;Waikato_River_lower_part;Lotic;New Zealand;NZL;Oceania;175,658347;-37,9693;FWB_308
+ID_0270;Rio_Cuareim_upper_part;Lotic;Uruguay;URY;South America;-56,148298;-30,680514;FWB_309
+ID_0271;Kapa'a_stream_upper_part;Lotic;United States;USA;North America;-159,330278;22,103056;FWB_310
+ID_0272;Kapa'a_stream_lower_part;Lotic;United States;USA;North America;-159,363611;22,103611;FWB_311
+ID_0273;Hule?'ia_stream_lower_part_2008;Lotic;United States;USA;North America;-159,3975;21,943056;FWB_312
+ID_0274;Hule?'ia_stream_lower_part_2009;Lotic;United States;USA;North America;-159,3975;21,943056;FWB_313
+ID_0275;Opaeka'a_stream_upper_part_2008;Lotic;United States;USA;North America;-159,370278;22,056667;FWB_314
+ID_0276;Opaeka'a_stream_upper_part_2009;Lotic;United States;USA;North America;-159,370278;22,056667;FWB_315
+ID_0277;Lake_Gariep;Lentic;South Africa;ZAF;Africa;25,766667;-30,633333;FWB_316
+ID_0278;Utah_Lake;Lentic;United States;USA;North America;-111,786225;40,230214;FWB_317
+ID_0279;Lake_Winnipeg_North_Basin;Lentic;Canada;CAN;North America;-98,753472;53,742603;FWB_318
+ID_0280;Lake_Winnipeg_South_Basin;Lentic;Canada;CAN;North America;-98,753472;53,742603;FWB_319
+ID_0281;Pulmankijärvi;Lentic;Finland;FIN;Europe;27,995254;69,986699;FWB_320
+ID_0282;Rio_Grande_Bernalillo_Autumn;Lotic;United States;USA;North America;-106,556936;35,322669;FWB_321
+ID_0283;Rio_Grande_Bernalillo_Summer;Lotic;United States;USA;North America;-106,556936;35,322669;FWB_322
+ID_0284;Rio_Grande_Bernardo_Autumn;Lotic;United States;USA;North America;-106,799697;34,4176;FWB_323
+ID_0285;Rio_Grande_Bernardo_Spring;Lotic;United States;USA;North America;-106,799697;34,4176;FWB_324
+ID_0286;Rio_Grande_Bernardo_Summer;Lotic;United States;USA;North America;-106,799697;34,4176;FWB_325
+ID_0287;Rio_Grande_Bosque_Spring;Lotic;United States;USA;North America;-106,866697;33,794908;FWB_326
+ID_0288;Lake_Moreno_East_Nahuel_Huapi_National_Park;Lentic;Argentina;ARG;South America;-71,312485;-41,099017;FWB_327
+ID_0289;Lake_Moreno_West_Nahuel_Huapi_National_Park;Lentic;Argentina;ARG;South America;-71,588516;-40,848099;FWB_328
+ID_0290;Lake_Baikal_Listvyanka_;Lentic;Russia;RUS;Asia;104,856834;51,818378;FWB_329
+ID_0291;Hanfeng_lake_A_Impact;Lentic;China;CHN;Asia;108,678896;31,073116;FWB_330
+ID_0292;Hanfeng_lake_D_Control;Lentic;China;CHN;Asia;108,678896;31,073116;FWB_332
+ID_0293;Hanfeng_lake_of_Xiojiang_river_juillet_2010;Lentic;China;CHN;Asia;108,678896;31,073116;FWB_333
+ID_0294;Hanfeng_lake_of_Xiojiang_river_decembre_2010;Lentic;China;CHN;Asia;108,678896;31,073116;FWB_334
+ID_0295;Xiojiang_river_juillet_2010;Lentic;China;CHN;Asia;108,678896;31,073116;FWB_335
+ID_0296;Xiojiang_river_decembre_2010;Lentic;China;CHN;Asia;108,678896;31,073116;FWB_336
+ID_0297;Lake_Malawi_South_East_Arm_Maldeco_aquaculture;Lentic;Malawi;MWI;Africa;35,160685;-14,291167;FWB_337
+ID_0298;Lake_Wabamun;Lentic;Canada;CAN;North America;-114,587222;53,529722;FWB_339
+ID_0299;Lake_Victoria_Murchison_bay;Lentic;Uganda;UGA;Africa;32,094167;0,0875;FWB_340
+ID_0300;Lake_Victoria_Napoleon_Gulf_2008;Lentic;Uganda;UGA;Africa;33,087222;0,09;FWB_341
+ID_0301;Lake_Ontario_1995-1998;Lentic;United States;USA;North America;-77,608142;43,256139;FWB_342
+ID_0302;Lake_Ontario_1999-2003;Lentic;United States;USA;North America;-77,608142;43,256139;FWB_343
+ID_0303;Lake_Ontario_2008_pooled;Lentic;United States;USA;North America;-77,608142;43,256139;FWB_344
+ID_0304;Lake_Laberge_1993;Lentic;Canada;CAN;North America;-135,086667;61,086389;FWB_345
+ID_0305;Lake_Laberge_2000;Lentic;Canada;CAN;North America;-135,086667;61,086389;FWB_346
+ID_0306;Lake_Laberge_2001;Lentic;Canada;CAN;North America;-135,086667;61,086389;FWB_347
+ID_0307;Lake_Izunuma_jul;Lentic;Japan;JPN;Asia;141,103113;38,719369;FWB_348
+ID_0308;Lake_Izunuma_aug;Lentic;Japan;JPN;Asia;141,103113;38,719369;FWB_349
+ID_0309;Lake_Izunuma_sep;Lentic;Japan;JPN;Asia;141,103113;38,719369;FWB_350
+ID_0310;Lake_Izunuma_jun;Lentic;Japan;JPN;Asia;141,103113;38,719369;FWB_351
+ID_0311;Lake_Chaohu_sep_2003;Lentic;China;CHN;Asia;117,538376;31,538749;FWB_353
+ID_0312;Rio_Cuareim_upper_part;Lotic;Uruguay;URY;South America;-56,033333;-30,766667;FWB_364
+ID_0313;Lake_Albert_2007;Lentic;Uganda;UGA;Africa;31,099091;1,741065;FWB_365
+ID_0314;Lake_Edward;Lentic;Uganda;UGA;Africa;29,783707;-0,300749;FWB_366
+ID_0315;Lake_George;Lentic;Uganda;UGA;Africa;30,208168;0,006866;FWB_367
+ID_0316;Lake_Mburo;Lentic;Uganda;UGA;Africa;30,93504;-0,660195;FWB_368
+ID_0317;Lake_Saka_2008;Lentic;Uganda;UGA;Africa;30,242908;0,692594;FWB_369
+ID_0318;Lake_Poyang_Wucheng;Lentic;China;CHN;Asia;116,276092;29,116175;FWB_370
+ID_0319;Lake_Poyang_Xingzi;Lentic;China;CHN;Asia;116,276092;29,116175;FWB_371
+ID_0320;Lake_Poyang_Duchang;Lentic;China;CHN;Asia;116,276092;29,116175;FWB_372
+ID_0321;Lake_Poyang_Hukou;Lentic;China;CHN;Asia;116,276092;29,116175;FWB_373
+ID_0322;Lake_Rostavatn;Lentic;Norway;NOR;Europe;19,621124;68,991894;FWB_374
+ID_0323;Pennsylvania_Allegheny_River_Undredged;Lotic;United States;USA;North America;-79,489;40,8874;FWB_375
+ID_0324;Pennsylvania_Allegheny_River_Dredged;Lotic;United States;USA;North America;-79,489;40,8874;FWB_376
+ID_0325;Eva_Lake;Lentic;Canada;CAN;North America;-91,170158;48,71679;FWB_377
+ID_0326;Utah_San_Rafael_River_Upper;Lotic;United States;USA;North America;-110,851924;39,1153;FWB_380
+ID_0327;Utah_San_Rafael_River_Lower;Lotic;United States;USA;North America;-110,3715;38,854;FWB_381
+ID_0328;Waikato_River_constrained_zone_automn_2009;Lotic;New Zealand;NZL;Oceania;175,397301;-37,880273;FWB_382
+ID_0329;Waikato_River_constrained_zone_spring_2010;Lotic;New Zealand;NZL;Oceania;175,397301;-37,880273;FWB_383
+ID_0330;Waikato_River_UNconstrained_zone_automn_2009;Lotic;New Zealand;NZL;Oceania;175,156202;-37,548524;FWB_384
+ID_0331;Waikato_River_UNconstrained_zone_spring_2010;Lotic;New Zealand;NZL;Oceania;175,156202;-37,548524;FWB_385
+ID_0332;Waikato_River_freshwater_tidal_zone_automn_2009;Lotic;New Zealand;NZL;Oceania;174,979906;-37,287302;FWB_386
+ID_0333;Lake_Poyang_March_2008;Lentic;China;CHN;Asia;116,276092;29,116175;FWB_387
+ID_0334;Lake_Poyang_July_2008;Lentic;China;CHN;Asia;116,276092;29,116175;FWB_388
+ID_0335;Rural_2002;Lotic;United States;USA;North America;-85,660629;37,923618;FWB_389
+ID_0336;Suburban_2002;Lotic;United States;USA;North America;-85,898595;38,082014;FWB_390
+ID_0337;Urban_2002;Lotic;United States;USA;North America;-85,829515;38,082419;FWB_391
+ID_0338;Quebrada_Camaronal_Corcovado_National_park;Lotic;Costa Rica;CRI;South America;-83,577683;8,470547;FWB_392
+ID_0339;Rio_Claro_Corcovado_National_Park;Lotic;Costa Rica;CRI;South America;-83,601072;8,490412;FWB_393
+ID_0340;Quebrada_Estacion_Tortuguero_National_park;Lotic;Costa Rica;CRI;South America;-83,536792;10,579031;FWB_394
+ID_0341;Rio_tortuguero_Tortuguero_national_Park;Lotic;Costa Rica;CRI;South America;-83,513017;10,527223;FWB_395
+ID_0342;A_Lake;Lentic;Canada;CAN;North America;-66,558666;45,402789;FWB_396
+ID_0343;Clear_Lake;Lentic;Canada;CAN;North America;-66,697855;45,227513;FWB_397
+ID_0344;Cranberry_Lake;Lentic;Canada;CAN;North America;-66,762571;45,35905;FWB_398
+ID_0345;Cundy;Lentic;Canada;CAN;North America;-66,718022;45,365006;FWB_399
+ID_0346;Ormond;Lentic;Canada;CAN;North America;-66,65102;45,327048;FWB_400
+ID_0347;Trout_Lake;Lentic;Canada;CAN;North America;-66,763773;45,179375;FWB_401
+ID_0348;West_Long_Lake;Lentic;Canada;CAN;North America;-66,629949;45,360287;FWB_402
+ID_0349;Middle_Bridge_River;Lentic;Canada;CAN;North America;-122,621466;50,8962;FWB_403
+ID_0350;Reservoir;Lentic;Canada;CAN;North America;-122,6709;50,8934;FWB_404
+ID_0351;Tributaries;Lotic;Canada;CAN;North America;-122,663691;50,924625;FWB_405
+ID_0352;Lake_Norsjo;Lentic;Norway;NOR;Europe;9,3013;59,299552;FWB_406
+ID_0353;Sixmile_brook_Tributary_date_39652;Lotic;United States;USA;North America;-74,351194;43,991278;FWB_407
+ID_0354;Sixmile_brook_Tributary_date_39728;Lotic;United States;USA;North America;-74,351194;43,991278;FWB_408
+ID_0355;Sixmile_brook_below_SB_tributary_date_39954;Lotic;United States;USA;North America;-74,345556;43,987778;FWB_409
+ID_0356;Sixmile_brook_near_Long_Lake_date_39652;Lotic;United States;USA;North America;-74,341;43,988194;FWB_410
+ID_0357;Sixmile_brook_near_Long_Lake_date_39729;Lotic;United States;USA;North America;-74,341;43,988194;FWB_411
+ID_0358;Sixmile_brook_near_Long_Lake_date_39954;Lotic;United States;USA;North America;-74,341;43,988194;FWB_412
+ID_0359;Sixmile_brook_near_Long_Lake_date_40009;Lotic;United States;USA;North America;-74,341;43,988194;FWB_413
+ID_0360;Fishing_brook_near_newcomb_date_39590;Lotic;United States;USA;North America;-74,291333;43,987583;FWB_414
+ID_0361;Fishing_brook_near_newcomb_date_39651;Lotic;United States;USA;North America;-74,291333;43,987583;FWB_415
+ID_0362;Fishing_brook_near_newcomb_date_39700;Lotic;United States;USA;North America;-74,291333;43,987583;FWB_416
+ID_0363;Fishing_brook_near_newcomb_date_39947;Lotic;United States;USA;North America;-74,291333;43,987583;FWB_417
+ID_0364;Hudson_River_near_Newcomb_date_39639;Lotic;United States;USA;North America;-74,130704;43,966174;FWB_418
+ID_0365;Hudson_River_near_Newcomb_date_39701;Lotic;United States;USA;North America;-74,130704;43,966174;FWB_419
+ID_0366;McTier_Creek_near_Monetta_date_39554;Lotic;United States;USA;North America;-81,601771;33,753477;FWB_420
+ID_0367;McTier_Creek_near_Monetta_date_39603;Lotic;United States;USA;North America;-81,601771;33,753477;FWB_421
+ID_0368;McTier_Creek_above_Hunt_Shed_date_39932;Lotic;United States;USA;North America;-81,597049;33,745978;FWB_422
+ID_0369;McTier_Creek_near_NewHolland_date_39412;Lotic;United States;USA;North America;-81,6075;33,7175;FWB_423
+ID_0370;McTier_Creek_near_NewHolland_date_39728;Lotic;United States;USA;North America;-81,6075;33,7175;FWB_424
+ID_0371;McTier_Creek_near_NewHolland_date_39933;Lotic;United States;USA;North America;-81,6075;33,7175;FWB_425
+ID_0372;McTier_Creek_near_NewHolland_date_39995;Lotic;United States;USA;North America;-81,6075;33,7175;FWB_426
+ID_0373;Inarijarvi_Lake;Lentic;Finland;FIN;Europe;27,781219;69,015513;FWB_427
+ID_0374;Lake_Worth_Meandering_road_creek;Lotic;United States;USA;North America;-97,453798;32,777533;FWB_428
+ID_0375;McTier_Creek_near_NewHolland_date_39602;Lotic;United States;USA;North America;-81,6075;33,7175;FWB_429
+ID_0376;McTier_Creek_near_NewHolland_date_39553;Lotic;United States;USA;North America;-81,6075;33,7175;FWB_430
+ID_0377;Lago_Grande_de_Manacapuru;Lentic;Brazil;BRA;South America;-60,814934;-3,304365;FWB_466
+ID_0378;Hapen_creek;Lotic;Taiwan;TWN;Asia;121,0927;24,779;FWB_467
+ID_0379;Blue_Mesa_Reservoir_Colorado_2000;Lentic;United States;USA;North America;-107,22147;38,469181;FWB_468
+ID_0380;Blue_Mesa_Reservoir_Colorado_2010;Lentic;United States;USA;North America;-107,22147;38,469181;FWB_469
+ID_0381;Armstrong_Lake_Alberta;Lentic;Canada;CAN;North America;-113,64795;54,389004;FWB_470
+ID_0382;Lake_Oyeren;Lentic;Norway;NOR;Europe;11,214867;59,81859;FWB_471
+ID_0383;Lake_Nipigon_1921-25;Lentic;Canada;CAN;North America;-88,563995;49,724479;FWB_472
+ID_0384;Lake_Nipigon_2006;Lentic;Canada;CAN;North America;-88,563995;49,724479;FWB_473
+ID_0385;Lake_Simcoe_1950-60;Lentic;Canada;CAN;North America;-79,346237;44,442605;FWB_474
+ID_0386;Lake_Simcoe_2007;Lentic;Canada;CAN;North America;-79,346237;44,442605;FWB_475
+ID_0387;Lake_Champlain_1929-30;Lentic;Canada;CAN;North America;-73,125114;45,044904;FWB_476
+ID_0388;Lake_Champlain_2006;Lentic;Canada;CAN;North America;-73,125114;45,044904;FWB_477
+ID_0389;Shinumo_Creek_june_2010_2011;Lotic;United States;USA;North America;-112,287877;36,145638;FWB_482
+ID_0390;Cromes_Broad;Lentic;United Kingdom;GBR;Europe;1,514329;52,722726;FWB_486
+ID_0391;Cockshoot_broad;Lentic;United Kingdom;GBR;Europe;1,467226;52,687465;FWB_487
+ID_0392;Wroxham_Broad;Lentic;United Kingdom;GBR;Europe;1,417379;52,699586;FWB_488
+ID_0393;Salhouse_Broad;Lentic;United Kingdom;GBR;Europe;1,429378;52,689559;FWB_489
+ID_0394;Ranworth_Broad;Lentic;United Kingdom;GBR;Europe;1,483662;52,684734;FWB_490
+ID_0395;Malthouse_Broad;Lentic;United Kingdom;GBR;Europe;1,489584;52,67927;FWB_491
+ID_0396;Canoe_Lake_2006;Lentic;Canada;CAN;North America;-108,250465;55,176515;FWB_492
+ID_0397;Canoe_Lake_2007;Lentic;Canada;CAN;North America;-108,250465;55,176515;FWB_493
+ID_0398;Dore_Lake;Lentic;Canada;CAN;North America;-107,276058;54,773762;FWB_494
+ID_0399;Last_Mountain_Lake;Lentic;Canada;CAN;North America;-105,263214;51,103522;FWB_495
+ID_0400;Lake_Qamutissait;Lentic;Canada;CAN;North America;-68,388577;58,428145;FWB_504
+ID_0401;Batts_Bridge_Stream_A;Lotic;United Kingdom;GBR;Europe;0,075315;51,017973;FWB_505
+ID_0402;Batts_Bridge_Stream_B;Lotic;United Kingdom;GBR;Europe;0,078995;51,012398;FWB_506
+ID_0403;Batts_Bridge_Stream_C;Lotic;United Kingdom;GBR;Europe;0,065936;50,990745;FWB_507
+ID_0404;Lake_Baikal;Lentic;Russia;RUS;Asia;106,06018;52,342052;FWB_508
+ID_0405;ARM450;Lotic;Papua New Guinea;PNG;Asia;141,239448;-6,162913;FWB_509
+ID_0406;Kuambit;Lotic;Papua New Guinea;PNG;Asia;141,114035;-6,197216;FWB_510
+ID_0407;Bosset_Lagoon;Lentic;Papua New Guinea;PNG;Asia;141,098928;-7,223865;FWB_511
+ID_0408;Lake_Daviumbu;Lentic;Papua New Guinea;PNG;Asia;141,282263;-7,586624;FWB_512
+ID_0409;Lake_Drimdenasuk;Lentic;Papua New Guinea;PNG;Asia;141,381154;-6,080644;FWB_513
+ID_0410;Lake_Moian;Lentic;Papua New Guinea;PNG;Asia;141,210952;-6,193803;FWB_514
+ID_0411;Lake_Kiunga;Lentic;Papua New Guinea;PNG;Asia;141,294293;-6,156939;FWB_515
+ID_0412;Lake_Kuambit;Lentic;Papua New Guinea;PNG;Asia;141,129141;-6,204725;FWB_516
+ID_0413;Erekta_lake_Ox2;Lentic;Papua New Guinea;PNG;Asia;141,065812;-6,225886;FWB_517
+ID_0414;Lake_Kwem_Ox6;Lentic;Papua New Guinea;PNG;Asia;140,895095;-6,775506;FWB_518
+ID_0415;Lower_Swasey_Monke_River_ajout;Lotic;Belize;BLZ;South America;-88,544333;16,416975;FWB_519
+ID_0416;Barbis_gravelpitlake_BAA;Lentic;France;FRA;Europe;1,202065;43,322349;NA
+ID_0417;Bidot_gravelpitlake_BID;Lentic;France;FRA;Europe;1,285494;43,525573;NA
+ID_0418;Manantali_Reservoir_Low_Water;Lentic;Mali;MLI;Africa;-10,353355;13,130973;FWB_523
+ID_0419;Manantali_Reservoir_High_Water;Lentic;Mali;MLI;Africa;-10,353355;13,130973;FWB_524
+ID_0420;Lake_Waahi;Lentic;New Zealand;NZL;Oceania;175,127128;-37,558413;FWB_525
+ID_0421;Lake_Koka;Lentic;Ethiopia;ETH;Africa;39,089487;8,402494;FWB_527
+ID_0422;Contemporary_Lower_Illinois_River_CL;Lotic;United States;USA;North America;-89,627716;40,631024;FWB_528
+ID_0423;Contemporary_Upper_Illinois_River_CU;Lotic;United States;USA;North America;-88,359041;41,309955;FWB_529
+ID_0424;Historical_Lower_Illinois_River_HL;Lotic;United States;USA;North America;-89,627716;40,631024;FWB_530
+ID_0425;Historical_Upper_Illinois_River_HU;Lotic;United States;USA;North America;-88,35904;40,309955;FWB_531
+ID_0426;Olt_river_Babeni_Reservoir;Lentic;Romania;ROU;Europe;24,693516;43,813436;FWB_532
+ID_0427;Washoe_Lake;Lentic;United States;USA;North America;-119,8;39,266667;FWB_533
+ID_0428;Frog_Pond_&_Rosewood_Lake;Lentic;United States;USA;North America;-119,8;39,266667;FWB_534
+ID_0429;Hamilton_Harbour_East;Lentic;Canada;CAN;North America;-79,888416;43,287682;FWB_535
+ID_0430;Hamilton_Harbour_West;Lentic;Canada;CAN;North America;-79,812182;43,311164;FWB_536
+ID_0431;Hamilton_Harbour_North;Lentic;Canada;CAN;North America;-79,812182;43,311164;FWB_537
+ID_0432;Red_and_Atchafalaya_rivers;Lotic;United States;USA;North America;-91,716333;31,076184;FWB_541
+ID_0433;Xin’anjiang_Reservoir;Lentic;China;CHN;Asia;119,333518;29,515466;FWB_542
+ID_0434;Flix_Reservoir;Lentic;Spain;ESP;Europe;0,527961;41,235859;FWB_543
+ID_0435;River_WaalRhin_1996-1998;Lotic;Netherlands;NLD;Europe;5,740579;51,766496;FWB_544
+ID_0436;River_WaalRhin_2001-2003;Lotic;Netherlands;NLD;Europe;5,740579;51,766496;FWB_545
+ID_0437;Taihu_Lake_;Lentic;China;CHN;Asia;120,192;31,246;FWB_546
+ID_0438;Lake_Taihu_clear_water_regime_Clear-G;Lentic;China;CHN;Asia;120,121626;31,251239;FWB_547
+ID_0439;Gonghu_Bay_turbid_regime_Turbid-G;Lentic;China;CHN;Asia;120,373303;31,451734;FWB_548
+ID_0440;Meiliang_Bay_Turbid-M;Lentic;China;CHN;Asia;120,181697;31,523389;FWB_549
+ID_0441;Rietvlei_Dam;Lentic;South Africa;ZAF;Africa;28,274099;-25,879334;FWB_552
+ID_0442;Lake_Titicaca;Lentic;Peru;PER;South America;-69,807278;-15,314038;FWB_554
+ID_0443;Mangueira_Lake;Lentic;Brazil;BRA;South America;-53,13;-33,522778;FWB_557
+ID_0444;Birazel_BIR_gravelpitlake;Lentic;France;FRA;Europe;1,289764;43,530329;NA
+ID_0445;Loumbila_Reservoir(pool);Lentic;Burkina Faso;BFA;Africa;-1,407012;12,488386;FWB_559
+ID_0446;Ziga_dam(pool);Lentic;Burkina Faso;BFA;Africa;-1,066667;12,5;FWB_560
+ID_0447;Reservoir_Kompienga(pool);Lentic;Burkina Faso;BFA;Africa;0,695864;11,177904;FWB_561
+ID_0448;Lake_Patzcuaro;Lentic;Mexico;MEX;South America;-101,633333;19,633333;FWB_566
+ID_0449;Four de Louge_gravelpitlake_FDL;Lentic;France;FRA;Europe;1,302606;43,43998;NA
+ID_0450;Lamartine1_gravelpitlake_LAM1;Lentic;France;FRA;Europe;1,337336;43,506265;NA
+ID_0451;Lavernose_gravelpitlake_LAV;Lentic;France;FRA;Europe;1,265891;43,386392;NA
+ID_0452;Pouvil_gravelpitlake_POU;Lentic;France;FRA;Europe;1,258473;43,371928;NA
+ID_0453;Fei-Tsui_Reservoir;Lentic;Taiwan;TWN;Asia;121,589281;24,913803;FWB_571
+ID_0454;Lake_Lunz;Lentic;Austria;AUT;Europe;15,05;47,85;FWB_572
+ID_0455;Lake_Liambezi_2012;Lentic;Namibia;NAM;Africa;24,372472;-17,910616;FWB_573
+ID_0456;Blanca;Lentic;Uruguay;URY;South America;-54,836744;-34,898012;FWB_574
+ID_0457;Cisne;Lentic;Uruguay;URY;South America;-55,61667;-34,66667;FWB_575
+ID_0458;Puruzinho_Lake;Lentic;Brazil;BRA;South America;-63,084722;-7,348056;FWB_576
+ID_0459;Three_Gorges_Reservoir;Lentic;China;CHN;Asia;106,555183;29,543405;FWB_577
+ID_0460;Priest_Lake;Lentic;United States;USA;North America;-116,855631;48,565973;FWB_578
+ID_0461;Milicich;Lentic;New Zealand;NZL;Oceania;175,248611;-37,885278;FWB_579
+ID_0462;Ngaroto;Lentic;New Zealand;NZL;Oceania;175,288889;-37,955556;FWB_580
+ID_0463;Ohinewai;Lentic;New Zealand;NZL;Oceania;175,172222;-37,494444;FWB_581
+ID_0464;Okowhao;Lentic;New Zealand;NZL;Oceania;175,935278;-38,063889;FWB_582
+ID_0465;Rotopiko;Lentic;New Zealand;NZL;Oceania;175,318056;-37,95;FWB_583
+ID_0466;Rotomanuka;Lentic;New Zealand;NZL;Oceania;175,315278;-37,925;FWB_584
+ID_0467;Curonian_Lagoon;Lentic;Lithuania;LTU;Europe;21,132262;55,3387;FWB_585
+ID_0468;Krasnoyarsk_Reservoir;Lentic;Russia;RUS;Asia;91,666387;55,091998;FWB_586
+ID_0469;Kleiner_Gollinsee;Lentic;Germany;DEU;Europe;13,588268;53,027989;FWB_587
+ID_0470;Schulzensee;Lentic;Germany;DEU;Europe;12,84619;53,247573;FWB_588
+ID_0471;Lake_Inari;Lentic;Finland;FIN;Europe;27,765575;69,050872;FWB_589
+ID_0472;Tonle_Sap_Lake_DRY2013;Lentic;Cambodia;KHM;Asia;103,963637;13,000553;FWB_590
+ID_0473;Belgium_Pond_1;Lentic;Belgium;BEL;Europe;4,177948;51,035454;FWB_591
+ID_0474;Belgium_Pond_2;Lentic;Belgium;BEL;Europe;4,181944;51,038233;FWB_592
+ID_0475;Belgium_Pond_3;Lentic;Belgium;BEL;Europe;4,191944;51,038233;FWB_593
+ID_0476;Wales_Millennium_Costal_Park_Pond;Lentic;United Kingdom;GBR;Europe;-4,201667;51,686111;FWB_594
+ID_0477;Lake_Khovsgol;Lentic;Mongolia;MNG;Asia;100,439051;51,06069;FWB_595
+ID_0478;Great_Slave_Lake;Lentic;Canada;CAN;North America;-114,776745;61,507421;FWB_596
+ID_0479;Mactaquac_Lake_summarized;Lentic;Canada;CAN;North America;-66,876;45,95;FWB_597
+ID_0480;Restored_basin_Huizhou_West_Lake(MDB);Lentic;China;CHN;Asia;114,393889;23,0975;FWB_598
+ID_0481;Unrestored_basin_Huizhou_West_Lake(PDB);Lentic;China;CHN;Asia;114,393889;23,0975;FWB_599
+ID_0482;Chaohu_Lake_Basin;Both;China;CHN;Asia;117,518723;31,53078;FWB_600
+ID_0483;Taihu_Lake_Basin;Both;China;CHN;Asia;120,109388;31,193253;FWB_601
+ID_0484;Lake Nyamithi_2010;Lentic;South Africa;ZAF;Africa;32,296903;-26,89111;FWB_602
+ID_0485;Lake Nyamithi_2017;Lentic;South Africa;ZAF;Africa;32,296903;-26,89111;FWB_603
+ID_0486;Arno_river;Lotic;Italy;ITA;Europe;11,050653;43,116756;FWB_604
+ID_0487;Upper_Paraná_River_floodplain;Lotic;Brazil;BRA;South America;-53,535967;-22,875187;FWB_605
+ID_0488;Rio Cipó_Wet_season;Lotic;Brazil;BRA;South America;-43,774857;-19,070908;FWB_606
+ID_0489;Rio Cipó_Dry_season;Lotic;Brazil;BRA;South America;-43,774857;-19,070908;FWB_607
+ID_0490;Lake_Langcuo;Lentic;China;CHN;Asia;87,390966;29,204337;FWB_608
+ID_0491;Dongting_Lake;Lentic;China;CHN;Asia;112,212967;28,896485;FWB_609
+ID_0492;Tributary_streams_São_Simão_reservoir_natural;Lotic;Brazil;BRA;South America;-50,447935;-18,901647;FWB_610
+ID_0493;Tributary_streams_São_Simão_reservoir_sugarcane;Lotic;Brazil;BRA;South America;-50,447935;-18,901647;FWB_611
+ID_0494;Tributary_streams_São_Simão_reservoir_pasture;Lotic;Brazil;BRA;South America;-50,447935;-18,901647;FWB_612
+ID_0495;Xingu_River;Lotic;Brazil;BRA;South America;-51,833333;-3,583333;FWB_613
+ID_0496;Yamdrok_Lake;Lentic;China;CHN;Asia;90,660186;28,93036;FWB_614
+ID_0497;Nam_Co_Lake;Lentic;China;CHN;Asia;90,666327;30,739493;FWB_615
+ID_0498;Huangshui_River_ZoneB&C;Lotic;China;CHN;Asia;111,035;29,645278;FWB_616
+ID_0499;Huangshui_River_ZoneD&E;Lotic;China;CHN;Asia;111,035;29,645278;FWB_617
+ID_0500;Huangshui_River_ZoneG;Lotic;China;CHN;Asia;111,035;29,645278;FWB_618
+ID_0501;Rio_das_Velhas_Control;Lotic;Brazil;BRA;South America;-44,157909;-18,780184;FWB_619
+ID_0502;Rio_das_Velhas_Site1;Lotic;Brazil;BRA;South America;-44,157909;-18,780184;FWB_620
+ID_0503;Rio_das_Velhas_Site2;Lotic;Brazil;BRA;South America;-44,157909;-18,780184;FWB_621
+ID_0504;Lake_Dianshnan;Lentic;China;CHN;Asia;120,965523;31,107033;FWB_622
+ID_0505;Nong;Lotic;Thailand;THA;Asia;102,550103;12,332284;FWB_623
+ID_0506;Sato;Lotic;Thailand;THA;Asia;102,516972;12,350731;FWB_624
+ID_0507;Stornoi;Lotic;Thailand;THA;Asia;102,535254;12,346203;FWB_625
+ID_0508;Khayeng;Lotic;Thailand;THA;Asia;98,595882;14,625765;FWB_626
+ID_0509;Lichia;Lotic;Thailand;THA;Asia;98,570481;15,169334;FWB_627
+ID_0510;Pakkok;Lotic;Thailand;THA;Asia;98,541036;14,666455;FWB_628
+ID_0511;Pilok;Lotic;Thailand;THA;Asia;98,57554;14,615716;FWB_629
+ID_0512;DB1;Lentic;South Africa;ZAF;Africa;25,68251;-33,442499;FWB_630
+ID_0513;DB2;Lentic;South Africa;ZAF;Africa;25,667781;-33,443604;FWB_631
+ID_0514;MLS;Lentic;South Africa;ZAF;Africa;25,484448;-33,409161;FWB_632
+ID_0515;RDB;Lentic;South Africa;ZAF;Africa;25,706928;-33,439723;FWB_633
+ID_0516;Site1_Brazo_del_Este;Lotic;Spain;ESP;Europe;-6,054532;37,198678;FWB_634
+ID_0517;Site2_Puente_de_los_Vaqueros;Lotic;Spain;ESP;Europe;-6,073749;37,226697;FWB_635
+ID_0518;Site3_Charco_de_la_Boca;Lotic;Spain;ESP;Europe;-6,492431;37,126372;FWB_636
+ID_0519;Anzali_Wetland_complex;Both;Iran;IRN;Africa;49,336893;37,477576;FWB_637
+ID_0520;Lake_Macquarie;Lentic;Australia;AUS;Oceania;151,598667;-33,082088;FWB_638
+ID_0521;Chishui_River;Lotic;China;CHN;Asia;105,909508;28,487709;FWB_639
+ID_0522;Lake_San_Michele;Lentic;Italy;ITA;Europe;7,888345;45,477254;FWB_640
+ID_0523;Lake_Campagna;Lentic;Italy;ITA;Europe;7,899031;45,484286;FWB_641
+ID_0524;Red_river;Lotic;Vietnam;VNM;Asia;106,551013;20,292452;FWB_642
+ID_0525;Site1_San_Martin_River;Lotic;Bolivia;BOL;South America;-63,349353;-13,298995;FWB_643
+ID_0526;Site2_Blanco_River;Lotic;Bolivia;BOL;South America;-63,705577;-13,279972;FWB_644
+ID_0527;Site3_Itenez_River;Lotic;Bolivia;BOL;South America;-63,27227;-12,674577;FWB_645
+ID_0528;Lake_Turkana;Lentic;Kenya;KEN;Africa;36,061348;3,635314;FWB_647
+ID_0529;Río_La_Venta1;Lotic;Mexico;MEX;South America;-93,541746;16,842721;FWB_648
+ID_0530;Arroyo_Chiquito2;Lotic;Mexico;MEX;South America;-93,793475;16,943635;FWB_649
+ID_0531;Arroyo_Negro3;Lotic;Mexico;MEX;South America;-93,790386;16,957757;FWB_650
+ID_0532;Peñitas_Reservoir;Lentic;Mexico;MEX;South America;-93,439671;17,429027;FWB_651
+ID_0533;Rio_Grijalva_below_Peñitas5;Lotic;Mexico;MEX;South America;-93,412377;17,355147;FWB_652
+ID_0534;El_Espino_lagoon6;Lotic;Mexico;MEX;South America;-92,689944;18,480689;FWB_653
+ID_0535;Arroyo_Miranda7;Lotic;Mexico;MEX;South America;-90,611895;16,113506;FWB_654
+ID_0536;Arroyo_Cedros8;Lotic;Mexico;MEX;South America;-90,824755;16,677371;FWB_655
+ID_0537;Upper_Río_Lacanjá9;Lotic;Mexico;MEX;South America;-90,764331;16,624743;FWB_656
+ID_0538;Lower_Río_Lacanjá10;Lotic;Mexico;MEX;South America;-90,522631;16,329759;FWB_657
+ID_0539;Río_Chancalá11;Lotic;Mexico;MEX;South America;-91,486269;17,245893;FWB_658
+ID_0540;Río_Usumacinta_Tenosique12;Lotic;Mexico;MEX;South America;-91,43587;17,292035;FWB_659
+ID_0541;Río_Chacamax13;Lotic;Mexico;MEX;South America;-91,578279;17,291464;FWB_660
+ID_0542;Río_San_Pedro14;Lotic;Mexico;MEX;South America;-91,231197;17,407427;FWB_661
+ID_0543;Centla_wetlands;Lotic;Mexico;MEX;South America;-92,647496;18,397848;FWB_662
+ID_0544;Milada_2013;Lentic;Czech Republic;CZE;Europe;13,949443;50,654675;FWB_663
+ID_0545;Most_2014;Lentic;Czech Republic;CZE;Europe;13,644934;50,537479;FWB_664
+ID_0546;Lake_Hövsgöl;Lentic;Mongolia;MNG;Asia;100,505092;51,149815;FWB_665
+ID_0547;SW01;Lotic;United States;USA;North America;-109,062622;42,565194;FWB_666
+ID_0548;SW02;Lotic;United States;USA;North America;-108,879355;42,373322;FWB_667
+ID_0549;SW03;Lotic;United States;USA;North America;-107,966105;42,571843;FWB_668
+ID_0550;SW04;Lotic;United States;USA;North America;-107,1476;42,488328;FWB_669
+ID_0551;MB01;Lotic;United States;USA;North America;-106,371396;41,515046;FWB_670
+ID_0552;MB02;Lotic;United States;USA;North America;-106,416902;41,605678;FWB_671
+ID_0553;MB03;Lotic;United States;USA;North America;-106,31846;41,724793;FWB_672
+ID_0554;MB04;Lotic;United States;USA;North America;-106,512402;42,00988;FWB_673
+ID_0555;LR01;Lotic;United States;USA;North America;-105,882212;40,788628;FWB_674
+ID_0556;LR02;Lotic;United States;USA;North America;-106,037822;41,030829;FWB_675
+ID_0557;LR03;Lotic;United States;USA;North America;-105,980393;41,138216;FWB_676
+ID_0558;LR04;Lotic;United States;USA;North America;-105,722747;41,227001;FWB_677
+ID_0559;LR05;Lotic;United States;USA;North America;-105,605355;41,309678;FWB_678
+ID_0560;LR06;Lotic;United States;USA;North America;-105,414398;41,927815;FWB_679
+ID_0561;LR07;Lotic;United States;USA;North America;-105,123964;42,056708;FWB_680
+ID_0562;LR08;Lotic;United States;USA;North America;-104,852362;42,123592;FWB_681
+ID_0563;San_Juan_River;Lotic;United States;USA;North America;-109,17008;37,180112;FWB_682
+ID_0564;Usumacinta River Basin;Lotic;Guatemala;GTM;South America;-90,122454;16,825567;FWB_683
+ID_0565;SAB;Lentic;France;FRA;Europe;1,251335;43,364617;NA
+ID_0566;Lake_Winnipeg;Lentic;Canada;CAN;North America;-97,720281;52,655531;FWB_685
+ID_0567;Lake_Chaohu;Lentic;China;CHN;Asia;117,557175;31,518489;FWB_686
+ID_0568;Lake_Moreno_East_Patagonia;Lentic;Argentina;ARG;South America;-71,503625;-41,076773;FWB_687
+ID_0569;Upper_Niagara_River;Lotic;United States;USA;North America;-78,943416;42,956704;FWB_688
+ID_0570;Nong;Lotic;Thailand;THA;Asia;102,550103;12,332284;FWB_689
+ID_0571;Store;Lotic;Thailand;THA;Asia;102,565664;12,328105;FWB_690
+ID_0572;Stornoi;Lotic;Thailand;THA;Asia;102,535254;12,346203;FWB_691
+ID_0573;Pilok;Lotic;Thailand;THA;Asia;98,57554;14,615716;FWB_692
+ID_0574;Pakkok;Lotic;Thailand;THA;Asia;98,541036;14,666455;FWB_693
+ID_0575;Lichia;Lotic;Thailand;THA;Asia;98,570481;15,169334;FWB_694
+ID_0576;Khayeng;Lotic;Thailand;THA;Asia;98,595882;14,625765;FWB_695
+ID_0577;Pecos_River;Lotic;United States;USA;North America;-104,271247;33,041703;FWB_696
+ID_0578;Lake_Trasimeno;Lentic;Italy;ITA;Europe;12,100064;43,133283;FWB_697
+ID_0579;Reservoir_6;Lentic;Singapore;SGP;Asia;103,800833;1,366944;FWB_698
+ID_0580;Baakens;Lotic;South Africa;ZAF;Africa;25,5678;-33,963;FWB_699
+ID_0581;Kaloog;Lotic;South Africa;ZAF;Africa;26,3753;-25,784435;FWB_700
+ID_0582;Liesbeck;Lotic;South Africa;ZAF;Africa;18,478;-33,946;FWB_701
+ID_0583;Magalies;Lotic;South Africa;ZAF;Africa;27,5646;-26,0161;FWB_702
+ID_0584;Muldersdrift;Lotic;South Africa;ZAF;Africa;27,8458;-26,0363;FWB_703
+ID_0585;Rondegat;Lotic;South Africa;ZAF;Africa;19,0667;-32,3761;FWB_704
+ID_0586;Treur;Lotic;South Africa;ZAF;Africa;30,8393;-24,72;FWB_705
+ID_0587;River_Lee_Carthagena_Lock;Lotic;United Kingdom;GBR;Europe;-0,016882;51,710046;FWB_706
+ID_0588;Slave_River_Delta;Lotic;Canada;CAN;North America;-113,53;61,27;FWB_707
+ID_0589;Slave_River_Smith;Lotic;Canada;CAN;North America;-113,53;61,27;FWB_708
+ID_0590;FTM_TenMileLagoon_early;Lotic;Australia;AUS;Oceania;140,86067;-19,33341;FWB_709
+ID_0591;FTM_TenMileLagoon_late;Lotic;Australia;AUS;Oceania;140,86067;-19,33341;FWB_710
+ID_0592;FWB_WalkersBand_early;Lotic;Australia;AUS;Oceania;140,857883;-18,162267;FWB_711
+ID_0593;FWB_WalkersBand_late;Lotic;Australia;AUS;Oceania;140,857883;-18,162267;FWB_712
+ID_0594;FWL_WilliamsLagoon_early;Lotic;Australia;AUS;Oceania;140,60063;-18,99092;FWB_713
+ID_0595;FWL_WilliamsLagoon_late;Lotic;Australia;AUS;Oceania;140,60063;-18,99092;FWB_714
+ID_0596;OCD_OffChannel_early;Lotic;Australia;AUS;Oceania;140,57383;-18,97382;FWB_715
+ID_0597;OCD_OffChannel_late;Lotic;Australia;AUS;Oceania;140,57383;-18,97382;FWB_716
+ID_0598;RKW_RockyWaterhole_early;Lotic;Australia;AUS;Oceania;141,848233;-20,242617;FWB_717
+ID_0599;RKW_RockyWaterhole_late;Lotic;Australia;AUS;Oceania;141,848233;-20,242617;FWB_718
+ID_0600;SDD_early;Lotic;Australia;AUS;Oceania;141,088433;-20,0456;FWB_719
+ID_0601;SDD_late;Lotic;Australia;AUS;Oceania;141,088433;-20,0456;FWB_720
+ID_0602;STW_StanleyWaterhole_early;Lotic;Australia;AUS;Oceania;141,01127;-19,55353;FWB_721
+ID_0603;STW_StanleyWaterhole_late;Lotic;Australia;AUS;Oceania;141,01127;-19,55353;FWB_722
+ID_0604;SWD_SeawardLagoon_early;Lotic;Australia;AUS;Oceania;140,78655;-19,37131;FWB_723
+ID_0605;SWD_SeawardLagoon_late;Lotic;Australia;AUS;Oceania;140,78655;-19,37131;FWB_724
+ID_0606;Alligator_Rivers_Four-Mile_Hole;Lotic;Australia;AUS;Oceania;132,21865;-12,57082;FWB_725
+ID_0607;Alligator_Rivers_Barramundi_Gorge;Lotic;Australia;AUS;Oceania;132,4359;-13,31026;FWB_726
+ID_0608;Alligator_Rivers_Bucket_Billabong;Lotic;Australia;AUS;Oceania;132,45525;-12,85431;FWB_727
+ID_0609;Alligator_Rivers_Cahill's_Crossing;Lotic;Australia;AUS;Oceania;132,968;-12,429;FWB_728
+ID_0610;Alligator_Rivers_Cannon_Hill_Billabong;Lotic;Australia;AUS;Oceania;132,954536;-12,374708;FWB_729
+ID_0611;Alligator_Rivers_Jabiluka_Billabong;Lotic;Australia;AUS;Oceania;132,874506;-12,461872;FWB_730
+ID_0612;Alligator_Rivers_Mudgimberri;Lotic;Australia;AUS;Oceania;132,8761;-12,5905;FWB_731
+ID_0613;Border_Rivers_Booligar;Lotic;Australia;AUS;Oceania;148,079656;-28,924847;FWB_732
+ID_0614;Border_Rivers_Gidi_gidi;Lotic;Australia;AUS;Oceania;150,047162;-28,403415;FWB_733
+ID_0615;Border_Rivers_St_George;Lotic;Australia;AUS;Oceania;148,572395;-28,071618;FWB_734
+ID_0616;Border_Rivers_Talwood;Lotic;Australia;AUS;Oceania;149,489341;-28,497575;FWB_735
+ID_0617;Border_Rivers_Wyenbah;Lotic;Australia;AUS;Oceania;148,321851;-28,383664;FWB_736
+ID_0618;Bom fim_OxbowLakes;Lentic;Brazil;BRA;South America;-67,8761;-6,00551;FWB_737
+ID_0619;Damiao_OxbowLakes;Lentic;Brazil;BRA;South America;-67,769319;-5,686742;FWB_738
+ID_0620;Mandioca_OxbowLakes;Lentic;Brazil;BRA;South America;-67,82875;-5,87691;FWB_739
+ID_0621;Marari grande_OxbowLakes;Lentic;Brazil;BRA;South America;-67,7664;-5,94104;FWB_740
+ID_0622;Puca_OxbowLakes;Lentic;Brazil;BRA;South America;-67,561133;-5,592256;FWB_741
+ID_0623;Pupunha_OxbowLakes;Lentic;Brazil;BRA;South America;-67,7675;-5,6111;FWB_742
+ID_0624;Ressaca do xibua_OxbowLakes;Lentic;Brazil;BRA;South America;-67,8653;-5,90524;FWB_743
+ID_0625;Sacado do juburi_OxbowLakes;Lentic;Brazil;BRA;South America;-67,224808;-5,146853;FWB_744
+ID_0626;Samauma_OxbowLakes;Lentic;Brazil;BRA;South America;-67,634469;-5,5276;FWB_745
+ID_0627;Santa clara_OxbowLakes;Lentic;Brazil;BRA;South America;-67,80333;-5,98456;FWB_746
+ID_0628;Sao sebastiao_OxbowLakes;Lentic;Brazil;BRA;South America;-67,877531;-6,059222;FWB_747
+ID_0629;Veado_OxbowLakes;Lentic;Brazil;BRA;South America;-67,798686;-5,826903;FWB_748
+ID_0630;Bill_Williams_River_Basin_Burro01&02;Lotic;United States;USA;North America;-113,24521;34,73491;FWB_749
+ID_0631;Bill_Williams_River_Basin_Burro06&07;Lotic;United States;USA;North America;-113,35278;34,56183;FWB_750
+ID_0632;Bill_Williams_River_Basin_Burro08&09;Lotic;United States;USA;North America;-113,44775;34,54052;FWB_751
+ID_0633;Bill_Williams_River_Basin_Conger01&02;Lotic;United States;USA;North America;-113,13209;34,7642;FWB_752
+ID_0634;Bill_Williams_River_Basin_Francis01&02;Lotic;United States;USA;North America;-113,35451;34,81197;FWB_753
+ID_0635;Bill_Williams_River_Basin_Francis03&04;Lotic;United States;USA;North America;-113,26434;34,76313;FWB_754
+ID_0636;Angle;Lentic;United States;USA;North America;-122,2883;47,4261;FWB_755
+ID_0637;Cottage;Lentic;United States;USA;North America;-122,0866;47,7539;FWB_756
+ID_0638;Killarney;Lentic;United States;USA;North America;-122,2909;47,2867;FWB_757
+ID_0639;Martha2;Lentic;United States;USA;North America;-122,2446;47,8512;FWB_758
+ID_0640;North;Lentic;United States;USA;North America;-122,2896;47,3051;FWB_759
+ID_0641;Pine;Lentic;United States;USA;North America;-122,0448;47,5866;FWB_760
+ID_0642;Silver;Lentic;United States;USA;North America;-122,212;47,8904;FWB_761
+ID_0643;Star;Lentic;United States;USA;North America;-122,2889;47,3547;FWB_762
+ID_0644;Steel;Lentic;United States;USA;North America;-122,3029;47,3269;FWB_763
+ID_0645;Wilderness;Lentic;United States;USA;North America;-122,0344;47,3726;FWB_764
+ID_0646;Angle;Lentic;United States;USA;North America;-122,2883;47,4261;FWB_765
+ID_0647;Cascade;Lentic;United States;USA;North America;-122,852;48,6513;FWB_766
+ID_0648;Fern;Lentic;United States;USA;North America;-122,764515;47,402912;FWB_767
+ID_0649;Martha1;Lentic;United States;USA;North America;-122,244583;47,851167;FWB_768
+ID_0650;Padden;Lentic;United States;USA;North America;-122,4529;48,7027;FWB_769
+ID_0651;Pine;Lentic;United States;USA;North America;-122,0448;47,5866;FWB_770
+ID_0652;Shoecraft;Lentic;United States;USA;North America;-122,307073;48,125977;FWB_771
+ID_0653;Sunday;Lentic;United States;USA;North America;-122,2576;48,2292;FWB_772
+ID_0654;Walsh;Lentic;United States;USA;North America;-121,9284;47,41;FWB_773
+ID_0655;Wilderness;Lentic;United States;USA;North America;-122,0344;47,3726;FWB_774
+ID_0656;Guapiaçu;Lotic;Brazil;BRA;South America;-42,7595;-22,435583;FWB_775
+ID_0657;Rusha_River_Before;Lotic;Japan;JPN;Asia;145,223787;44,178028;FWB_776
+ID_0658;Rusha_River_After;Lotic;Japan;JPN;Asia;145,223787;44,178028;FWB_777
+ID_0659;Akai_River_Before;Lotic;Japan;JPN;Asia;145,052947;44,09616;FWB_778
+ID_0660;Akai_River_After;Lotic;Japan;JPN;Asia;145,052947;44,09616;FWB_779
+ID_0661;Aalis;Lentic;Finland;FIN;Europe;24,32;67;FWB_780
+ID_0662;Akas;Lentic;Finland;FIN;Europe;24,07;67,49;FWB_781
+ID_0663;Inari;Lentic;Finland;FIN;Europe;27,84;69,05;FWB_782
+ID_0664;Jeris;Lentic;Finland;FIN;Europe;24,06;67,55;FWB_783
+ID_0665;Kalkku;Lentic;Finland;FIN;Europe;20,46;69,07;FWB_784
+ID_0666;Kilpis;Lentic;Finland;FIN;Europe;20,49;69,03;FWB_785
+ID_0667;Kivi;Lentic;Finland;FIN;Europe;21,15;68,49;FWB_786
+ID_0668;Kolta;Lentic;Finland;FIN;Europe;20,3;69,03;FWB_787
+ID_0669;Kuohkima;Lentic;Finland;FIN;Europe;20,33;69,03;FWB_788
+ID_0670;Muddus;Lentic;Finland;FIN;Europe;26,5;69;FWB_789
+ID_0671;Oiko;Lentic;Finland;FIN;Europe;21,13;68,5;FWB_790
+ID_0672;Paadar;Lentic;Finland;FIN;Europe;26,54;68,86;FWB_791
+ID_0673;Palo;Lentic;Finland;FIN;Europe;23,21;68,34;FWB_792
+ID_0674;Pasma;Lentic;Finland;FIN;Europe;24,22;67,07;FWB_793
+ID_0675;Pulmanki;Lentic;Finland;FIN;Europe;27,99;69,98;FWB_794
+ID_0676;Raha;Lentic;Finland;FIN;Europe;27,17;68,45;FWB_795
+ID_0677;Rattos;Lentic;Finland;FIN;Europe;24,52;66,5;FWB_796
+ID_0678;Ropi;Lentic;Finland;FIN;Europe;21,35;68,41;FWB_797
+ID_0679;Sarki;Lentic;Finland;FIN;Europe;23,58;67,54;FWB_798
+ID_0680;Sarkilomp;Lentic;Finland;FIN;Europe;20,74;69,07;FWB_799
+ID_0681;Siilas;Lentic;Finland;FIN;Europe;23,52;67,58;FWB_800
+ID_0682;Toras;Lentic;Finland;FIN;Europe;20,55;69,01;FWB_801
+ID_0683;Tsahkal;Lentic;Finland;FIN;Europe;28,91;69,45;FWB_802
+ID_0684;Ukko;Lentic;Finland;FIN;Europe;27,47;68,76;FWB_803
+ID_0685;Vaatto;Lentic;Finland;FIN;Europe;24,22;67,12;FWB_804
+ID_0686;Vaggoval;Lentic;Finland;FIN;Europe;22,14;68,3;FWB_805
+ID_0687;Vastus;Lentic;Finland;FIN;Europe;27,07;69,03;FWB_806
+ID_0688;Vuontis;Lentic;Finland;FIN;Europe;27,04;69;FWB_807
+ID_0689;Bayano_lake_2013;Lentic;Panama;PAN;South America;-78,771224;9,149731;FWB_808
+ID_0690;Gatun_lake_2013;Lentic;Panama;PAN;South America;-79,944564;9,163344;FWB_809
+ID_0691;Batu_Kurau;Lotic;Malaysia;MYS;Asia;100,833306;4,904833;FWB_810
+ID_0692;Jelai;Lotic;Malaysia;MYS;Asia;100,821304;5,003193;FWB_811
+ID_0693;Ara;Lotic;Malaysia;MYS;Asia;100,852972;5,090417;FWB_812
+ID_0694;Ayer_Hitam;Lotic;Malaysia;MYS;Asia;101,397194;5,025917;FWB_813
+ID_0695;Madhya_Pradesh;Lotic;India;IND;Asia;77,790872;22,797474;FWB_814
+ID_0696;West_Bengal;Lotic;India;IND;Asia;88,580077;26,780759;FWB_815
+ID_0697;LP1_pre-monsoon;Lotic;South Korea;KOR;Asia;127,282733;37,524183;FWB_816
+ID_0698;LP1_post-monsoon;Lotic;South Korea;KOR;Asia;127,282733;37,524183;FWB_817
+ID_0699;LP2_pre-monsoon;Lotic;South Korea;KOR;Asia;127,338727;37,534851;FWB_818
+ID_0700;LP2_post-monsoon;Lotic;South Korea;KOR;Asia;127,338727;37,534851;FWB_819
+ID_0701;Manzallah;Lotic;Egypt;EGY;Africa;32,072765;31,317348;FWB_820
+ID_0702;Fitzroy_River_Wet_Season;Lotic;Australia;AUS;Oceania;125,698556;-18,110788;FWB_821
+ID_0703;Fitzroy_River_EarlyDrySeason;Lotic;Australia;AUS;Oceania;125,698556;-18,110788;FWB_822
+ID_0704;Fitzroy_River_LateDrySeason;Lotic;Australia;AUS;Oceania;125,698556;-18,110788;FWB_823
+ID_0705;AG_Lake_Allgjutten;Lentic;Sweden;SWE;Europe;16,088338;57,950685;FWB_824
+ID_0706;BS_Lake_Bysjön;Lentic;Sweden;SWE;Europe;15,977982;58,191288;FWB_825
+ID_0707;DN_Lake_Dagarn;Lentic;Sweden;SWE;Europe;15,700784;59,904237;FWB_826
+ID_0708;DV_Lake_Degervattnet;Lentic;Sweden;SWE;Europe;21,383187;66,132738;FWB_827
+ID_0709;FN_Lake_Fiolen;Lentic;Sweden;SWE;Europe;14,530061;57,083826;FWB_828
+ID_0710;FS_Lake_Fräcksjön;Lentic;Sweden;SWE;Europe;12,180595;58,153851;FWB_829
+ID_0711;RS_Lake_Remmarsjön;Lentic;Sweden;SWE;Europe;18,2639;63,866726;FWB_830
+ID_0712;SE_Lake_Stensjön;Lentic;Sweden;SWE;Europe;18,312144;59,183265;FWB_831
+ID_0713;Scle1;Lotic;New Zealand;NZL;Oceania;172,580929;-43,447213;FWB_832
+ID_0714;Scri1;Lotic;New Zealand;NZL;Oceania;172,548897;-43,469219;FWB_833
+ID_0715;Scus1;Lotic;New Zealand;NZL;Oceania;172,562506;-43,346407;FWB_834
+ID_0716;Seas1;Lotic;New Zealand;NZL;Oceania;172,578383;-43,32902;FWB_835
+ID_0717;Sfla1;Lotic;New Zealand;NZL;Oceania;172,602226;-43,339532;FWB_836
+ID_0718;Snor1;Lotic;New Zealand;NZL;Oceania;172,613456;-43,313656;FWB_837
+ID_0719;Ssal1;Lotic;New Zealand;NZL;Oceania;172,668558;-43,256645;FWB_838
+ID_0720;Sshi1;Lotic;New Zealand;NZL;Oceania;172,566065;-43,459373;FWB_839
+ID_0721;Ssou1;Lotic;New Zealand;NZL;Oceania;172,591798;-43,323309;FWB_840
+ID_0722;Sspr1;Lotic;New Zealand;NZL;Oceania;172,4822;-43,654532;FWB_841
+ID_0723;Swai1;Lotic;New Zealand;NZL;Oceania;172,585162;-43,435288;FWB_842
+ID_0724;Mkiw;Lotic;New Zealand;NZL;Oceania;171,786051;-41,705572;FWB_843
+ID_0725;Andrews1;Lotic;New Zealand;NZL;Oceania;171,78798;-43,004574;FWB_844
+ID_0726;Andrews2;Lotic;New Zealand;NZL;Oceania;171,788718;-43,003928;FWB_845
+ID_0727;Andrews3;Lotic;New Zealand;NZL;Oceania;171,788802;-43,002989;FWB_846
+ID_0728;Andrews4;Lotic;New Zealand;NZL;Oceania;171,788705;-43,001181;FWB_847
+ID_0729;Craigieburn2;Lotic;New Zealand;NZL;Oceania;171,778021;-43,126402;FWB_848
+ID_0730;Craigieburn3;Lotic;New Zealand;NZL;Oceania;171,776893;-43,126813;FWB_849
+ID_0731;Little_Kowai3;Lotic;New Zealand;NZL;Oceania;171,9051;-43,302422;FWB_850
+ID_0732;Little_Kowai4;Lotic;New Zealand;NZL;Oceania;171,903226;-43,30098;FWB_851
+ID_0733;Dcw1;Lotic;New Zealand;NZL;Oceania;171,927123;-43,424559;FWB_852
+ID_0734;Dcw11;Lotic;New Zealand;NZL;Oceania;171,94203;-43,44688;FWB_853
+ID_0735;Dcw12;Lotic;New Zealand;NZL;Oceania;171,946094;-43,444813;FWB_854
+ID_0736;Dcw15;Lotic;New Zealand;NZL;Oceania;171,97308;-43,457517;FWB_855
+ID_0737;Dcw18;Lotic;New Zealand;NZL;Oceania;171,97577;-43,465636;FWB_856
+ID_0738;Dcw2;Lotic;New Zealand;NZL;Oceania;171,947222;-43,419581;FWB_857
+ID_0739;Dcw4;Lotic;New Zealand;NZL;Oceania;171,974491;-43,420741;FWB_858
+ID_0740;Dcw5;Lotic;New Zealand;NZL;Oceania;171,986225;-43,426134;FWB_859
+ID_0741;Desselse_Nete;Lotic;Belgium;BEL;Europe;5,081389;51,248056;FWB_860
+ID_0742;Tuulisja?rvi;Lentic;Finland;FIN;Europe;27,116667;68,833333;FWB_861
+ID_0743;Saanaja?rvi;Lentic;Norway;NOR;Europe;20,916667;69,083333;FWB_862
+ID_0744;Vuolit_spielgajavri;Lentic;Norway;NOR;Europe;23,55;69,433333;FWB_863
+ID_0745;Josefvatn;Lentic;Norway;NOR;Europe;19,15;69,25;FWB_864
+ID_0746;Datkujvari;Lentic;Norway;NOR;Europe;23,433333;69,483333;FWB_865
+ID_0747;Gæsjavri;Lentic;Norway;NOR;Europe;23;69,233333;FWB_866
+ID_0748;Sagelvvatn;Lentic;Norway;NOR;Europe;19,1;69,183333;FWB_867
+ID_0749;Biggijavri;Lentic;Norway;NOR;Europe;23,766667;69,55;FWB_868
+ID_0750;Fjellfrøsvatn;Lentic;Norway;NOR;Europe;19,333333;69,083333;FWB_869
+ID_0751;Pulmankija?rvi;Lentic;Finland;FIN;Europe;28;69,966667;FWB_870
+ID_0752;Lille_Rostavatn;Lentic;Norway;NOR;Europe;19,583333;69;FWB_871
+ID_0753;Takvatn;Lentic;Norway;NOR;Europe;19,083333;69,116667;FWB_872
+ID_0754;Ukonja?rvi;Lentic;Finland;FIN;Europe;27,466667;68,8;FWB_873
+ID_0755;Rahajärvi;Lentic;Finland;FIN;Europe;27,283333;68,75;FWB_874
+ID_0756;Kilpisja?rvi;Lentic;Finland;FIN;Europe;20,816667;69;FWB_875
+ID_0757;Muddusja?rvi;Lentic;Finland;FIN;Europe;26,833333;69;FWB_876
+ID_0758;Inarija?rvi;Lentic;Finland;FIN;Europe;27,666667;68,966667;FWB_877
+ID_0759;Lake_Bracciano;Lentic;Italy;ITA;Europe;12,237551;42,154135;FWB_878
+ID_0760;Lake_Chaohu;Lentic;China;CHN;Asia;117,361077;31,663703;FWB_879
+ID_0761;Chefu_River_Site1;Lotic;Mozambique;MOZ;Africa;32,727333;-22,36702;FWB_880
+ID_0762;Save_River_Site2;Lotic;Mozambique;MOZ;Africa;34,71669;-21,12219;FWB_882
+ID_0763;Chefu_River_Site3;Lotic;Mozambique;MOZ;Africa;32,46006;-22,21543;FWB_883
+ID_0764;Lake_Badesø;Lentic;Greenland;GRL;North America;-51,360556;64,130556;FWB_884
+ID_0765;Lake_Badesø;Lentic;Greenland;GRL;North America;-51,360556;64,130556;FWB_885
+ID_0766;Lake_Badesø;Lentic;Greenland;GRL;North America;-51,360556;64,130556;FWB_886
+ID_0767;Lake_Badesø;Lentic;Greenland;GRL;North America;-51,360556;64,130556;FWB_887
+ID_0768;Lake_Langesø;Lentic;Greenland;GRL;North America;-51,360556;64,130556;FWB_888
+ID_0769;Lake_Langesø;Lentic;Greenland;GRL;North America;-51,360556;64,130556;FWB_889
+ID_0770;River_Karamenderes_Site_Kkop;Lotic;Turkey;TUR;Asia;26,198917;39,98759;FWB_890
+ID_0771;River_Karamenderes_Site_Kkop;Lotic;Turkey;TUR;Asia;26,198917;39,98759;FWB_891
+ID_0772;River_Karamenderes_Site_Kkop;Lotic;Turkey;TUR;Asia;26,198917;39,98759;FWB_892
+ID_0773;River_Karamenderes_Site_Kif;Lotic;Turkey;TUR;Asia;26,216387;39,941937;FWB_893
+ID_0774;River_Karamenderes_Site_Kif;Lotic;Turkey;TUR;Asia;26,216387;39,941937;FWB_894
+ID_0775;River_Karamenderes_Site_Kif;Lotic;Turkey;TUR;Asia;26,216387;39,941937;FWB_895
+ID_0776;Lake_Victoria_Mwanza_Gulf;Lentic;Tanzania;TZA;Africa;32,84964;22,618355;FWB_896
+ID_0777;Bataillieres;Lentic;France;FRA;Europe;6,5665101;45,1412285;NA
+ID_0778;Blanc A;Lentic;France;FRA;Europe;6,9664091;45,5794453;NA
+ID_0779;Cerces;Lentic;France;FRA;Europe;6,4741196;45,0712685;NA
+ID_0780;Lou;Lentic;France;FRA;Europe;6,5290091;45,2906442;NA
+ID_0781;Noir Forclaz;Lentic;France;FRA;Europe;6,6967482;45,6589909;NA
+ID_0782;Noir Masse;Lentic;France;FRA;Europe;6,5050886;45,3110817;NA
+ID_0783;Pepin;Lentic;France;FRA;Europe;6,5512203;45,1435191;NA
+ID_0784;Lake_C?azaja?vri;Lentic;Norway;NOR;Europe;19,738357;69,24039;FWB_906
+ID_0785;Lake_Kapervatn;Lentic;Norway;NOR;Europe;17,306468;69,244674;FWB_907
+ID_0786;Lake_Geitvatnet;Lentic;Norway;NOR;Europe;17,917428;69,440937;FWB_908
+ID_0787;Lake_Ta?rnvatnet;Lentic;Norway;NOR;Europe;18,361329;69,309895;FWB_909
+ID_0788;Lake_Ytre_Fiskelausvatnet;Lentic;Norway;NOR;Europe;18,902822;69,242736;FWB_910
+ID_0789;Lake_Lille_Rostavatn;Lentic;Norway;NOR;Europe;19,604519;69,007706;FWB_911
+ID_0790;Lake_Moska?nja?vri;Lentic;Norway;NOR;Europe;20,199014;68,921097;FWB_912
+ID_0791;Lake_Steinvatnet;Lentic;Norway;NOR;Europe;16,409;68,621926;FWB_913
+ID_0792;Lake_Storvatnet;Lentic;Norway;NOR;Europe;17,716625;69,196778;FWB_914
+ID_0793;Lake_Zacapu;Lentic;Mexico;MEX;South America;-101,787562;19,824769;FWB_915
+ID_0794;Lake_Eikesdalsvatnet;Lentic;Norway;NOR;Europe;8,1;62,63;FWB_916
+ID_0795;Lake_Aursunden;Lentic;Norway;NOR;Europe;11,46;62,68;FWB_917
+ID_0796;Lake_Savalen;Lentic;Norway;NOR;Europe;10,52;62,23;FWB_918
+ID_0797;Lake_Storsjøen;Lentic;Norway;NOR;Europe;11,37;61,36;FWB_919
+ID_0798;Lake_Atnsjøen;Lentic;Norway;NOR;Europe;10,23;61,85;FWB_920
+ID_0799;Lake_Sølensjøen;Lentic;Norway;NOR;Europe;11,68;61,88;FWB_921
+ID_0800;Lake_Skasen;Lentic;Norway;NOR;Europe;12,32;60,36;FWB_922
+ID_0801;Cipo?_river_CP1;Lotic;Brazil;BRA;South America;-43,621156;-19,343733;FWB_923
+ID_0802;Jaboticatubas_river_JB;Lotic;Brazil;BRA;South America;-43,908447;-19,459287;FWB_924
+ID_0803;Taquarac?u_river_TQ;Lotic;Brazil;BRA;South America;-43,752166;-19,598704;FWB_925
+ID_0804;Curimatai?_river_CU;Lotic;Brazil;BRA;South America;-44,151419;-17,976715;FWB_926
+ID_0805;Cipo?_river_CP2;Lotic;Brazil;BRA;South America;-43,998881;-18,675422;FWB_927
+ID_0806;Boro_river_dry_season;Lotic;Botswana;BWA;Africa;23;-20;FWB_928
+ID_0807;Boro_river_wet_season;Lotic;Botswana;BWA;Africa;23;-20;FWB_929
+ID_0808;Boteti_river_dry_season;Lotic;Botswana;BWA;Africa;23,423936;-20,126447;FWB_930
+ID_0809;Boteti_river_wet_season;Lotic;Botswana;BWA;Africa;23,423936;-20,126447;FWB_931
+ID_0810;Nseleni_river_system;Lotic;South Africa;ZAF;Africa;32,0131;-28,696996;FWB_932
+ID_0811;Cac?apava_wetland_wet_season;Lotic;Brazil;BRA;South America;-52,507452;-32,757215;FWB_933
+ID_0812;Cac?apava_wetland_dry_season;Lotic;Brazil;BRA;South America;-52,507452;-32,757215;FWB_934
+ID_0813;Nicola_lake_wet_season;Lentic;Brazil;BRA;South America;-52,53061;-32,55477;FWB_935
+ID_0814;Nicola_lake_dry_season;Lentic;Brazil;BRA;South America;-52,53061;-32,55477;FWB_936
+ID_0815;Arctic_coastal_plain_lake1;Lentic;United States;USA;North America;-155,594872;70,613534;FWB_937
+ID_0816;Arctic_coastal_plain_lake2;Lentic;United States;USA;North America;-155,594872;70,613534;FWB_938
+ID_0817;Arctic_coastal_plain_lake3;Lentic;United States;USA;North America;-155,594872;70,613534;FWB_939
+ID_0818;Arctic_coastal_plain_lake4;Lentic;United States;USA;North America;-155,594872;70,613534;FWB_940
+ID_0819;Arctic_coastal_plain_lake5;Lentic;United States;USA;North America;-155,594872;70,613534;FWB_941
+ID_0820;Arctic_coastal_plain_lake6;Lentic;United States;USA;North America;-155,594872;70,613534;FWB_942
+ID_0821;Arctic_coastal_plain_lake7;Lentic;United States;USA;North America;-155,594872;70,613534;FWB_943
+ID_0822;Arctic_coastal_plain_lake8;Lentic;United States;USA;North America;-155,594872;70,613534;FWB_944
+ID_0823;Lake_Mentiroso;Lentic;Bolivia;BOL;South America;-66,574031;-10,978218;FWB_945
+ID_0824;Lake_Taupo;Lentic;New Zealand;NZL;Oceania;175,914469;-38,790524;FWB_946
+ID_0825;Reservoir_Passo_São_open_canopy;Lentic;Brazil;BRA;South America;-55,036828;-28,135625;FWB_947
+ID_0826;Reservoir_Passo_São_riparian_forest;Lentic;Brazil;BRA;South America;-55,036828;-28,135625;FWB_948
+ID_0827;Lake_Paraguay_River_floodplain;Lentic;Brazil;BRA;South America;-56,966667;-19,033333;FWB_949
+ID_0828;Upper_Walsh_River_Bruce_Weir;Lotic;Australia;AUS;Oceania;145,120786;-17,11426;FWB_950
+ID_0829;Upper_Walsh_River_Leafgold_Weir;Lotic;Australia;AUS;Oceania;145,053444;-17,14858;FWB_951
+ID_0830;Ouémé_River_Whedo5;Lotic;Benin;BEN;Africa;2,472053;6,713714;FWB_952
+ID_0831;Ouémé_River_Whedo6;Lotic;Benin;BEN;Africa;2,472053;6,713714;FWB_953
+ID_0832;Ouémé_River_Floodplain;Lotic;Benin;BEN;Africa;2,472053;6,713714;FWB_954
+ID_0833;Fitzroy_River_Main_river_channel_pools;Lotic;Australia;AUS;Oceania;123,687739;-17,802835;FWB_955
+ID_0834;Fitzroy_River_Floodplain;Lotic;Australia;AUS;Oceania;123,687739;-17,802835;FWB_956
+ID_0835;Solimões_River_Cabaliana;Lotic;Brazil;BRA;South America;-61;-3,5;FWB_957
+ID_0836;Solimões_River_Janauacá;Lotic;Brazil;BRA;South America;-61;-3,5;FWB_958
+ID_0837;Wulungu_Lake;Lentic;China;CHN;Asia;87,18;46,76;FWB_959
+ID_0838;Lake_Kernaalanjärvi;Lentic;Finland;FIN;Europe;24,608333;60,873611;FWB_960
+ID_0839;Lake_Wuli_restored_part_Lake_Taihu;Lentic;China;CHN;Asia;120,349668;31,428779;FWB_961
+ID_0840;Lake_Dianshan_Shangai;Lentic;China;CHN;Asia;120,967583;31,111008;FWB_962
+ID_0841;Lake_Pierson_Minnesota_siteinvadedwatermilfoil;Lentic;United States;USA;North America;-93,697972;44,83389;FWB_963
+ID_0842;Lake_Pierson_Minnesota_sitenativemacrophytes;Lentic;United States;USA;North America;-93,697972;44,83389;FWB_964
+ID_0843;Lake_Auburn_Minnesota_siteinvadedwatermilfoil;Lentic;United States;USA;North America;-93,679719;44,864884;FWB_965
+ID_0844;Lake_Auburn_Minnesota_sitenativemacrophytes;Lentic;United States;USA;North America;-93,679719;44,864884;FWB_966
+ID_0845;Lake_Bush_Minnesota;Lentic;United States;USA;North America;-93,384045;44,838634;FWB_967
+ID_0846;Lake_Zumbra_Minnesota;Lentic;United States;USA;North America;-93,66605;44,882935;FWB_968
+ID_0847;Lake_Simcoe_Ontario_pre-dreissenid-establisment;Lentic;Canada;CAN;North America;-79,383037;44,432724;FWB_969
+ID_0848;Lake_Simcoe_Ontario_post-deissenid-invasion;Lentic;Canada;CAN;North America;-79,383037;44,432724;FWB_970
+ID_0849;Lake_Elk_Minnesota;Lentic;United States;USA;North America;-95,803693;45,866885;FWB_971
+ID_0850;Lake_Storsjøen;Lentic;Norway;NOR;Europe;11,37;61,36;FWB_972
+ID_0851;Lake_Nahuel-Huapi_site-Brazo-Rincon;Lentic;Chile;CHL;South America;-71,416667;-41,05;FWB_973
+ID_0852;Lake_Nahuel-Huapi_site-Bahia-Lopez;Lentic;Chile;CHL;South America;-71,416667;-41,05;FWB_974
+ID_0853;Lake_Nahuel-Huapi_site-Dino-Huapi;Lentic;Chile;CHL;South America;-71,416667;-41,05;FWB_975
+ID_0854;Luvuvhu_river;Lotic;South Africa;ZAF;Africa;31,134454;-22,445359;FWB_976
+ID_0855;Olifants_river;Lotic;South Africa;ZAF;Africa;30,567748;-24,446475;FWB_977
+ID_0856;Lake_Jozini;Lentic;South Africa;ZAF;Africa;31,961477;-27,421542;FWB_978
+ID_0857;Lake_Nyamithi;Lentic;South Africa;ZAF;Africa;32,298576;-26,891246;FWB_979
+ID_0858;Bayano_lake_2014;Lentic;Panama;PAN;South America;-78,771224;9,149731;FWB_980
+ID_0859;Bayano_lake_2016;Lentic;Panama;PAN;South America;-78,771224;9,149731;FWB_981
+ID_0860;Bayano_lake_2018;Lentic;Panama;PAN;South America;-78,771224;9,149731;FWB_982
+ID_0861;Gatun_lake_2014;Lentic;Panama;PAN;South America;-79,944564;9,163344;FWB_983
+ID_0862;Gatun_lake_2015;Lentic;Panama;PAN;South America;-79,944564;9,163344;FWB_984
+ID_0863;Gatun_lake_2016;Lentic;Panama;PAN;South America;-79,944564;9,163344;FWB_985
+ID_0864;Gatun_lake_2018;Lentic;Panama;PAN;South America;-79,944564;9,163344;FWB_986
+ID_0865;Colonos_River;Lotic;Chile;CHL;South America;-73,064758;-44,086812;FWB_987
+ID_0866;Marchant_River;Lotic;Chile;CHL;South America;-73,076336;-44,107193;FWB_988
+ID_0867;Marchant_Mouth;Lotic;Chile;CHL;South America;-73,086722;-44,090365;FWB_989
+ID_0868;024_Mauldre_Beynes;Lotic;France;FRA;Europe;1,879623405;48,8434477;FWB_1006
+ID_0869;026_Ru des Vaux_Auffargis;Lotic;France;FRA;Europe;1,911736719;48,69915965;FWB_1007
+ID_0870;028_Rémarde_Saint-Arnoult-en-Yveline_amont;Lotic;France;FRA;Europe;1,939696801;48,57007032;FWB_1009
+ID_0871;029_Aulne_La-Celle-lès-Bordes;Lotic;France;FRA;Europe;1,949619787;48,63875002;FWB_1010
+ID_0872;031_Rémarde_Saint-Arnoult-en-Yveline_aval;Lotic;France;FRA;Europe;1,96432027;48,57442384;FWB_1011
+ID_0873;032_Rabette_Californie;Lotic;France;FRA;Europe;1,966686161;48,59137642;FWB_1012
+ID_0874;033_Yvette_Maincourt-sur-Yvette;Lotic;France;FRA;Europe;1,972456479;48,71665719;FWB_1013
+ID_0875;036_Aulne_Bullion;Lotic;France;FRA;Europe;1,995674068;48,60335523;FWB_1014
+ID_0876;037_Orge_Dourdan;Lotic;France;FRA;Europe;2,011372544;48,52735408;FWB_1015
+ID_0877;041_Rémarde, Val-St-Germain;Lotic;France;FRA;Europe;2,073518185;48,56872397;FWB_1017
+ID_0878;043_Yvette_Saint-Rémy-lès-Chevreuse;Lotic;France;FRA;Europe;2,089006215;48,70473709;FWB_1019
+ID_0879;044_Petit-Muce_Forge-lès-Bains;Lotic;France;FRA;Europe;2,102651897;48,62674751;FWB_1020
+ID_0880;045_Prédecelle_St-Maurice-Montcouronne;Lotic;France;FRA;Europe;2,105927223;48,57652819;FWB_1021
+ID_0881;046_Prédecelle_Briis-ss-Forge;Lotic;France;FRA;Europe;2,117273884;48,62095888;FWB_1022
+ID_0882;047_Prédecelle_Vaugrigneuse;Lotic;France;FRA;Europe;2,12169893;48,60992717;FWB_1023
+ID_0883;049_Orge_Breux-Jouy;Lotic;France;FRA;Europe;2,160723823;48,55869587;FWB_1024
+ID_0884;050_Charmoise_Bruyère-le-Châtel;Lotic;France;FRA;Europe;2,165757401;48,58390448;FWB_1025
+ID_0885;051_Renarde_St-Yon;Lotic;France;FRA;Europe;2,173167815;48,55605107;FWB_1026
+ID_0886;052_Orge_Breuillet;Lotic;France;FRA;Europe;2,185102697;48,568983;FWB_1027
+ID_0887;053_Yvette_Villebon-sur-Yvette;Lotic;France;FRA;Europe;2,234648576;48,70085779;FWB_1028
+ID_0888;054_Rouillon_Ballainvillier;Lotic;France;FRA;Europe;2,295219954;48,67771915;FWB_1029
+ID_0889;055_Orge_Viry-Châtillon;Lotic;France;FRA;Europe;2,358544841;48,67288939;FWB_1030
+ID_0890;095_Bez;Lotic;France;FRA;Europe;5,497978034;44,69171399;FWB_1053
+ID_0891;098_Archiane;Lotic;France;FRA;Europe;5,521828038;44,72663898;FWB_1056
+ID_0892;099_Nonnière;Lotic;France;FRA;Europe;5,545399984;44,72359997;FWB_1057
+ID_0893;100_Gats;Lotic;France;FRA;Europe;5,556318039;44,67134299;FWB_1058
+ID_0894;101_Borne;Lotic;France;FRA;Europe;5,585277052;44,70590097;FWB_1059
+ID_0895;Selune_river_10;Lotic;France;FRA;Europe;-1,094053;48,58195;FWB_1071
+ID_0896;Varenne;Lotic;France;FRA;Europe;1,246043;49,692833;FWB_1072
+ID_0897;Affluent_Crique_Blanc;Lotic;Guyane;GUF;South America;-52,59206;4,21086;FWB_1073
+ID_0898;Affluent_Crique_Bois_Bande;Lotic;Guyane;GUF;South America;-52,5396;4,25404;FWB_1074
+ID_0899;Affluent_Crique_Tortue;Lotic;Guyane;GUF;South America;-52,49144;4,21008;FWB_1075
+ID_0900;Apa;Lotic;Guyane;GUF;South America;-54,08369;5,3432;FWB_1076
+ID_0901;Crique_Chien;Lotic;Guyane;GUF;South America;-52,48833;3,18807;FWB_1077
+ID_0902;Crique_Eau_Claire;Lotic;Guyane;GUF;South America;-52,87149;5,14711;FWB_1078
+ID_0903;Crique_Korossibo;Lotic;Guyane;GUF;South America;-53,66222;5,16997;FWB_1079
+ID_0904;Crique_Minette;Lotic;Guyane;GUF;South America;-51,875;3,82033;FWB_1080
+ID_0905;Crique_Nouvelle_France;Lotic;Guyane;GUF;South America;-53,1975;3,56573;FWB_1081
+ID_0906;Crique_Paira;Lotic;Guyane;GUF;South America;-52,05517;4,115;FWB_1082
+ID_0907;Crique_Petit;Lotic;Guyane;GUF;South America;-53,10353;5,33654;FWB_1083
+ID_0908;Crique_Saul;Lotic;Guyane;GUF;South America;-52,94499;4,52854;FWB_1084
+ID_0909;Crique_Saut_Maripa;Lotic;Guyane;GUF;South America;-51,871027;3,858788;FWB_1085
+ID_0910;Annecy;Lentic;France;FRA;Europe;6,167323;45,861525;FWB_1086
+ID_0911;Clairvaux;Lentic;France;FRA;Europe;5,74962;46,56429;FWB_1087
+ID_0912;Bure River_UK31;Lotic;United Kingdom;GBR;Europe;1,432164723;52,6928819;FWB_1088
+ID_0913;Bure River_UK33;Lotic;United Kingdom;GBR;Europe;1,373147993;52,72664025;FWB_1089
+ID_0914;Bure River_UK37;Lotic;United Kingdom;GBR;Europe;1,466673238;52,6985323;FWB_1090
+ID_0915;Bure River_UK40;Lotic;United Kingdom;GBR;Europe;1,506949387;52,71744824;FWB_1091
+ID_0916;Bure River_UK44;Lotic;United Kingdom;GBR;Europe;1,582805095;52,71050093;FWB_1092
+ID_0917;Bure River_UK45;Lotic;United Kingdom;GBR;Europe;1,482933358;52,68595822;FWB_1093
+ID_0918;Bure River_UK47;Lotic;United Kingdom;GBR;Europe;1,52008468;52,68654153;FWB_1094
+ID_0919;Bure River_UK48;Lotic;United Kingdom;GBR;Europe;1,591764701;52,63751931;FWB_1095
+ID_0920;Bure River_UK50;Lotic;United Kingdom;GBR;Europe;1,555874807;52,66071998;FWB_1096
+ID_0921;Bure River_UK53;Lotic;United Kingdom;GBR;Europe;1,420134189;52,70485004;FWB_1097
+ID_0922;Bure River_UK55;Lotic;United Kingdom;GBR;Europe;1,445194295;52,70250482;FWB_1098
+ID_0923;River Loddon_UK58;Lotic;United Kingdom;GBR;Europe;-1,020625342;51,31957521;FWB_1099
+ID_0924;Trout Stream_UK60;Lotic;United Kingdom;GBR;Europe;-0,109721661;52,3258973;FWB_1100
+ID_0925;Brisbane River_01;Lotic;Australia;AUS;Oceania;152,237887;-26,758734;FWB_1101
+ID_0926;Brisbane River_02;Lotic;Australia;AUS;Oceania;152,270016;-26,787199;FWB_1102
+ID_0927;Brisbane River_03;Lotic;Australia;AUS;Oceania;152,403981;-27,041002;FWB_1103
+ID_0928;Brisbane River_04;Lotic;Australia;AUS;Oceania;152,640734;-27,430624;FWB_1104
+ID_0929;Brisbane River_05;Lotic;Australia;AUS;Oceania;152,670211;-27,443221;FWB_1105
+ID_0930;Brisbane River_06;Lotic;Australia;AUS;Oceania;152,746836;-27,566096;FWB_1106
+ID_0931;Mary River_07;Lotic;Australia;AUS;Oceania;152,71395;-26,727109;FWB_1107
+ID_0932;Mary River_08;Lotic;Australia;AUS;Oceania;152,691161;-26,623691;FWB_1108
+ID_0933;Mary River_09;Lotic;Australia;AUS;Oceania;152,75567;-26,546773;FWB_1109
+ID_0934;Mary River_10;Lotic;Australia;AUS;Oceania;152,621923;-26,19149;FWB_1110
+ID_0935;Mary River_11;Lotic;Australia;AUS;Oceania;152,489392;-25,827127;FWB_1111
+ID_0936;Mary River_12;Lotic;Australia;AUS;Oceania;152,524866;-25,732803;FWB_1112
+ID_0937;BOY;Lotic;New Zealand;NZL;Oceania;172,363015;-42,540417;FWB_1113
+ID_0938;BRM;Lotic;New Zealand;NZL;Oceania;171,560303;-42,928908;FWB_1114
+ID_0939;BRO;Lotic;New Zealand;NZL;Oceania;171,728859;-43,193423;FWB_1115
+ID_0940;BS;Lotic;New Zealand;NZL;Oceania;171,810371;-43,004368;FWB_1116
+ID_0941;CHI;Lotic;New Zealand;NZL;Oceania;171,733203;-42,999777;FWB_1117
+ID_0942;CR;Lotic;New Zealand;NZL;Oceania;171,748184;-43,025957;FWB_1118
+ID_0943;CS;Lotic;New Zealand;NZL;Oceania;171,757068;-43,306921;FWB_1119
+ID_0944;CSFH;Lotic;New Zealand;NZL;Oceania;171,731602;-43,163958;FWB_1120
+ID_0945;CSL;Lotic;New Zealand;NZL;Oceania;171,710916;-43,148471;FWB_1121
+ID_0946;DS;Lotic;New Zealand;NZL;Oceania;171,721844;-43,260536;FWB_1122
+ID_0947;DUCK;Lotic;New Zealand;NZL;Oceania;172,221267;-43,116089;FWB_1123
+ID_0948;ES;Lotic;New Zealand;NZL;Oceania;171,604453;-42,973765;FWB_1124
+ID_0949;FIVE;Lotic;New Zealand;NZL;Oceania;172,145167;-43,168289;FWB_1125
+ID_0950;GARR;Lotic;New Zealand;NZL;Oceania;172,347397;-43,225917;FWB_1126
+ID_0951;GS;Lotic;New Zealand;NZL;Oceania;171,758002;-43,032752;FWB_1127
+ID_0952;GSM;Lotic;New Zealand;NZL;Oceania;171,183983;-43,537994;FWB_1128
+ID_0953;HANM;Lotic;New Zealand;NZL;Oceania;172,886103;-42,564403;FWB_1129
+ID_0954;KR;Lotic;New Zealand;NZL;Oceania;171,772385;-43,308988;FWB_1130
+ID_0955;KS;Lotic;New Zealand;NZL;Oceania;171,591568;-43,014228;FWB_1131
+ID_0956;LAS;Lotic;New Zealand;NZL;Oceania;171,79183;-42,993739;FWB_1132
+ID_0957;LEWD;Lotic;New Zealand;NZL;Oceania;172,396942;-42,404696;FWB_1133
+ID_0958;LEWP;Lotic;New Zealand;NZL;Oceania;172,399865;-42,380281;FWB_1134
+ID_0959;LFS;Lotic;New Zealand;NZL;Oceania;171,80973;-43,001188;FWB_1135
+ID_0960;LILA;Lotic;New Zealand;NZL;Oceania;172,659576;-43,295181;FWB_1136
+ID_0961;MAKE;Lotic;New Zealand;NZL;Oceania;172,524938;-43,211526;FWB_1137
+ID_0962;MAO;Lotic;New Zealand;NZL;Oceania;171,175827;-43,579804;FWB_1138
+ID_0963;NATH;Lotic;New Zealand;NZL;Oceania;172,450505;-42,588545;FWB_1139
+ID_0964;NBRA;Lotic;New Zealand;NZL;Oceania;171,531684;-43,605961;FWB_1140
+ID_0965;NON;Lotic;New Zealand;NZL;Oceania;172,383176;-42,582544;FWB_1141
+ID_0966;OKA;Lotic;New Zealand;NZL;Oceania;172,796808;-43,764833;FWB_1142
+ID_0967;OKU;Lotic;New Zealand;NZL;Oceania;172,394975;-43,147305;FWB_1143
+ID_0968;OTU;Lotic;New Zealand;NZL;Oceania;172,608233;-43,450066;FWB_1144
+ID_0969;PERC;Lotic;New Zealand;NZL;Oceania;172,805863;-42,552701;FWB_1145
+ID_0970;POR;Lotic;New Zealand;NZL;Oceania;171,726992;-43,244847;FWB_1146
+ID_0971;PR;Lotic;New Zealand;NZL;Oceania;171,901128;-43,038209;FWB_1147
+ID_0972;PS;Lotic;New Zealand;NZL;Oceania;171,794615;-42,993256;FWB_1148
+ID_0973;RIO;Lotic;New Zealand;NZL;Oceania;172,40403;-42,450984;FWB_1149
+ID_0974;SEL;Lotic;New Zealand;NZL;Oceania;171,937147;-43,486066;FWB_1150
+ID_0975;SS;Lotic;New Zealand;NZL;Oceania;171,708222;-43,261464;FWB_1151
+ID_0976;STOU;Lotic;New Zealand;NZL;Oceania;171,269847;-43,645665;FWB_1152
+ID_0977;TF;Lotic;New Zealand;NZL;Oceania;171,572686;-43,018983;FWB_1153
+ID_0978;TOPA;Lotic;New Zealand;NZL;Oceania;172,220527;-43,125129;FWB_1154
+ID_0979;UAS;Lotic;New Zealand;NZL;Oceania;171,796107;-42,990379;FWB_1155
+ID_0980;UHR;Lotic;New Zealand;NZL;Oceania;171,746472;-42,985167;FWB_1156
+ID_0981;WATE;Lotic;New Zealand;NZL;Oceania;171,207922;-43,627095;FWB_1157
+ID_0982;WHIS;Lotic;New Zealand;NZL;Oceania;172,153184;-43,160343;FWB_1158
+ID_0983;WOOL;Lotic;New Zealand;NZL;Oceania;171,340945;-43,679693;FWB_1159
+ID_0984;WRRR;Lotic;New Zealand;NZL;Oceania;171,709076;-43,015345;FWB_1160
+ID_0985;WS;Lotic;New Zealand;NZL;Oceania;171,812152;-43,016229;FWB_1161
+ID_0986;WSB;Lotic;New Zealand;NZL;Oceania;171,811291;-43,016753;FWB_1162
+ID_0987;XCTF;Lotic;New Zealand;NZL;Oceania;171,571894;-43,010614;FWB_1163
+ID_0988;XCWS;Lotic;New Zealand;NZL;Oceania;171,803269;-43,018322;FWB_1164
+ID_0989;Lods;Lotic;France;FRA;Europe;47,048269;6,236964;FWB_1165
+ID_0990;Ornans;Lotic;France;FRA;Europe;47,103186;6,125469;FWB_1166
+ID_0991;Clemenson_Ck Site1;Lotic;Australia;AUS;Oceania;145,58333;-17,33333;FWB_1167
+ID_0992;Clemenson_Ck Site2;Lotic;Australia;AUS;Oceania;145,58333;-17,33333;FWB_1168
+ID_0993;Clemenson_Ck Site3;Lotic;Australia;AUS;Oceania;145,56666;-17,33333;FWB_1169
+ID_0994;Catamaran_Brook;Lotic;Canada;CAN;North America;-66,001731;46,887595;FWB_1170
+ID_0995;Lake_Lunz;Lentic;Austria;AUT;Europe;16,061;47,854;FWB_1171
+ID_0996;Leixlip_Reservoir;Lentic;Ireland;IRL;Europe;-6,5;53,35;FWB_1172
+ID_0997;Lough_Corrib;Lentic;Ireland;IRL;Europe;-9,24;53,47;FWB_1173
+ID_0998;Lough_Ramor;Lentic;Ireland;IRL;Europe;-7,06;53,81;FWB_1174
+ID_0999;Nashwaak_River;Lotic;Canada;CAN;North America;-66,644247;46,263664;FWB_1175
+ID_1000;Ross_Lake;Lentic;Ireland;IRL;Europe;-9,217473;53,372506;FWB_1176
+ID_1001;Saint_John_River;Lotic;Canada;CAN;North America;-66,825887;45,959018;FWB_1177
