@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  fcl-analysis:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: fcl-drivers:latest
+    container_name: fcl-analysis
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    environment:
+      - R_LIBS_USER=/workspace/.libPaths
+    stdin_open: true
+    tty: true
+    command: R --vanilla
+
+  # Optional: RStudio Server for interactive analysis
+  rstudio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: fcl-drivers:latest
+    container_name: fcl-rstudio
+    ports:
+      - "8787:8787"
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    environment:
+      - R_LIBS_USER=/workspace/.libPaths
+      - DISABLE_AUTH=true
+    # Note: This requires rocker/rstudio base image - replace Dockerfile accordingly
+    # See rocker documentation for RStudio Server setup

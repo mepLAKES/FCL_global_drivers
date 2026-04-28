@@ -1,4 +1,39 @@
+# R-specific
 .Rproj.user
 .Rhistory
 .RData
+.RDataTmp*
 .Ruserdata
+*.Rproj
+.Rprofile
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional - uncomment if needed)
+# *.xlsx
+# *.csv
+
+# Temporary files
+*.tmp
+*.bak
+
+# Python/Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Environment
+.Renviron
+.Rprofile
+renv/

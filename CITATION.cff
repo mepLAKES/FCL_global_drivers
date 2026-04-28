@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "FCL Global Drivers: Climate constrains food chain length via body-size effects"
+authors:
+  - family-names: "Perga"
+    given-names: "Marie-Elodie"
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Add ORCID if available
+    email: "marie-elodie.perga@unil.ch"
+date-released: 2026-04-28
+version: "3.0"
+type: software
+license: MIT
+repository-code: "https://github.com/mepLAKES/FCL_global_drivers"
+description: >
+  Analysis code and theoretical models for investigating how climate constrains 
+  whether food chain length increases with ecosystem size via body-size effects 
+  in freshwater ecosystems.
+keywords:
+  - food chain length
+  - freshwater ecosystems
+  - climate
+  - body size
+  - ecosystem size
+  - statistical analysis
+  - theoretical modeling
+references:
+  - authors:
+      - family-names: "Bouletreau"
+        given-names: "Sébastien"
+    title: "ISOFRESH: An isotopic database for freshwater ecosystems"
+    year: 2025
+    doi: "10.1051/kmae/2025010"
+  - authors:
+      - family-names: "Perga"
+        given-names: "Marie-Elodie"
+    title: "Food Web Baseline Computation"
+    year: 2025
+    doi: "10.5281/zenodo.17718458"

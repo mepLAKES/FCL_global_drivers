@@ -1,0 +1,43 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Documentation
+*.md
+LICENSE
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# R
+.Rproj.user/
+.Rhistory
+*.Rproj
+renv/
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Temporary
+*.tmp
+*.bak
+*.log
+
+# Large data files (if not needed in container)
+# Uncomment if applicable:
+# .RData
+# *.RDataTmp*
+
+# Figures/output (can be regenerated)
+# Global empirical patterns/figures/
+# Theoretical modelling/figures/
