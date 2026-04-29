@@ -27,16 +27,16 @@ library(patchwork)
 library(mgcv)
 
 ## load datasets---------
-load(here("data", "Env.RData"))
-load(here("data", "FCL_dataset.RData"))
-load(here("data", "df_fish_length_weights.RData"))
+load(here("Global empirical patterns","data", "Env.RData"))
+load(here("Global empirical patterns","data", "FCL_dataset.RData"))
+load(here("Global empirical patterns","data", "df_fish_length_weights.RData"))
 
-path_icon_1<-here("figures", "energy.png")
-path_icon_2<-here("figures", "bodysize.png")
-path_icon_3<-here("figures", "dist.png")
+path_icon_1<-here("Global empirical patterns","figures", "energy.png")
+path_icon_2<-here("Global empirical patterns","figures", "bodysize.png")
+path_icon_3<-here("Global empirical patterns","figures", "dist.png")
 
 ## fonctions
-source(here("scripts", "0_functions.R"))
+source(here("Global empirical patterns","scripts", "0_functions.R"))
 
 ## choice of color palette---------
 col_pal<-c("deepskyblue1","deepskyblue2","deepskyblue3","darkolivegreen","darkolivegreen2","darkolivegreen3",
@@ -56,7 +56,7 @@ df<- FCL_dataset %>%
     FCL<=8,
     TP>=0)
 complete_df<-df
-save(df, file = here("data", "complete_df.RData"))
+save(complete_df, file = here("Global empirical patterns","data", "complete_df.RData"))
 
 
 ## fixing colors for climate zones
