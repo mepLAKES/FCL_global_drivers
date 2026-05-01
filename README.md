@@ -39,7 +39,8 @@ FCL_global_drivers/
     │   └── result_S_Temp.txt         # Richness model results
     ├── figures/                      # Output figures
     └── scripts/
-        └── 2_Theoretical_model_representations.R  # Figure generation from model outputs
+      ├── 1_Theoretical_model_simulations.R      # Model simulations (long runtime; manual execution)
+      └── 2_Theoretical_model_representations.R  # Figure generation from model outputs
 ```
 
 ## Dependencies
@@ -54,12 +55,14 @@ The project requires the following R packages:
 - **Visualization**: `ggplot2`, `ggpubr`, `patchwork`, `cowplot`
 - **Statistical modeling**: `mgcv` (GAM models), `sjPlot` (model summaries)
 - **Data**: `rfishbase` (FishBase API access)
+- **Theoretical modeling**: `ATNr`, `deSolve`, `future.apply`, `future`, `doFuture`, `tidyr`
 - **Utilities**: `here` (path management), `forcats` (factor handling)
 
 Install all dependencies with:
 ```r
 install.packages(c("ggplot2", "ggpubr", "dplyr", "readxl", "forcats", 
-                   "rfishbase", "here", "mgcv", "sjPlot", "patchwork", "cowplot"))
+                   "rfishbase", "here", "mgcv", "sjPlot", "patchwork", "cowplot",
+                   "ATNr", "deSolve", "future.apply", "future", "doFuture", "tidyr"))
 ```
 
 ## Workflow
@@ -103,7 +106,17 @@ Validates FishBase data quality:
 - Compares measured apex predator sizes in the dataset vs. FishBase reports
 - Outputs: SI4 validation figure
 
-### 5. Theoretical Model Visualizations
+### 5. Theoretical Model Simulations (Manual)
+**Script**: `Theoretical modelling/scripts/1_Theoretical_model_simulations.R`
+
+Runs the theoretical food web simulations and exports text outputs:
+- `result_Nut_Temp.txt`
+- `result_BSmax_Temp.txt`
+- `result_Disturb.txt`
+
+Note: this step is computationally intensive (hours) and is intentionally not auto-run in the script.
+
+### 6. Theoretical Model Visualizations
 **Script**: `Theoretical modelling/scripts/2_Theoretical_model_representations.R`
 
 Generates visualizations of theoretical predictions:
@@ -186,6 +199,7 @@ Adds decorated borders, icons, and titles to ggplot2 plots for publication-quali
    source("4_further_checks.R")           # Validation
    
    # From Theoretical modelling/scripts/
+   # source("1_Theoretical_model_simulations.R") # Optional: long runtime simulation step
    source("2_Theoretical_model_representations.R") # Theory figures
    ```
 
@@ -242,7 +256,8 @@ DOI: [To be added]
 If you encounter missing package errors, reinstall all dependencies:
 ```r
 install.packages(c("ggplot2", "ggpubr", "dplyr", "readxl", "forcats", 
-                   "rfishbase", "here", "mgcv", "sjPlot", "patchwork", "cowplot"))
+                   "rfishbase", "here", "mgcv", "sjPlot", "patchwork", "cowplot",
+                   "ATNr", "deSolve", "future.apply", "future", "doFuture", "tidyr"))
 ```
 
 ### FishBase queries fail

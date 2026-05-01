@@ -23,7 +23,13 @@ RUN R -e "install.packages(c( \
     'cowplot', \
     'rfishbase', \
     'readxl', \
-    'forcats' \
+    'forcats', \
+    'ATNr', \
+    'deSolve', \
+    'future.apply', \
+    'future', \
+    'doFuture', \
+    'tidyr' \
     ), repos='https://cloud.r-project.org/')"
 
 # Install FishBase data (optional - can be downloaded on runtime)

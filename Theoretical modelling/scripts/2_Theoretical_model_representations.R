@@ -23,10 +23,10 @@ library(patchwork)
 
 
 ## data import and load
-model_size_temp_path <- here("data", "result_BSmax_Temp.txt")
-model_disturbance_path <- here("data", "result_Disturb.txt")
-model_productivity_temp_path <- here("data", "result_Nut_Temp.txt")
-model_S_temp_path <- here("data", "result_S_Temp.txt")
+model_size_temp_path <- here("Theoretical modelling","data", "result_BSmax_Temp.txt")
+model_disturbance_path <- here("Theoretical modelling","data", "result_Disturb.txt")
+model_productivity_temp_path <- here("Theoretical modelling","data", "result_Nut_Temp.txt")
+model_S_temp_path <- here("Theoretical modelling","data", "result_S_Temp.txt")
 
 model_size_temp<-read.table(model_size_temp_path , header = TRUE)
 model_disturbance<-read.table(model_disturbance_path  , header = TRUE)
@@ -71,7 +71,7 @@ p_prod_temp<-ggplot(model_productivity_temp, aes(x = K, y = TLmax, colour = Temp
 
 p_prod_temp
 
-figure_hypotheses_path <- here("figures", "fig_hyp_a.png")
+figure_hypotheses_path <- here("Theoretical modelling","figures", "fig_hyp_a.png")
 
 ggsave(figure_hypotheses_path, p_prod_temp, width = 7, height = 7, units = "cm")
 
@@ -131,7 +131,7 @@ p_apex_f<-p_apex +
 p_apex_f
 
 ### saving the figure in ggsave
-figure_hypotheses_path <- here("figures", "fig_hyp_b.png")
+figure_hypotheses_path <- here("Theoretical modelling","figures", "fig_hyp_b.png")
 ggsave(figure_hypotheses_path, p_apex_f, width = 7, height = 7, units = "cm")
 
 ### Figure for hypothesis C : effect of disturbance on FCL -----
@@ -155,10 +155,10 @@ p_dist<-ggplot(model_disturbance, aes(x=Z, y=TLmax) )+
         plot.background = element_rect(fill = "white"))
 p_dist
 
-figure_hypotheses_path <- here("figures", "fig_hyp_c.png")
+figure_hypotheses_path <- here("Theoretical modelling","figures", "fig_hyp_c.png")
 
 ggsave(figure_hypotheses_path, p_dist, width = 7, height = 7, units = "cm")
 
 Fig1<-ggarrange(p_prod_temp, p_apex_f, p_dist, ncol=3,labels = c("A", "B", "C"), label.x = 0.95, label.y = 0.95, font.label = list(size = 10, family = "Avenir"))
 
-ggsave(here("figures", "Fig1.png"), Fig1, width = 21, height = 7, units = "cm")
+ggsave(here("Theoretical modelling","figures", "Fig1.png"), Fig1, width = 21, height = 7, units = "cm")
