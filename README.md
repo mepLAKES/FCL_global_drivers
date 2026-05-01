@@ -1,10 +1,10 @@
-# Food Chain Length Global Drivers
+# Global Drivers of Food Chain Length
 
 ## Project Overview
 
 This repository contains the analysis code and theoretical models for investigating **"Climate constrains whether food chain length increases with ecosystem size via body-size effects"**. 
 
-The project integrates empirical data from freshwater ecosystems with theoretical modeling to understand the drivers of food chain length (FCL) across global environmental gradients. The work examines how ecosystem size, productivity (nutrient availability), hydrological disturbance, apex predator body size, and climate zones interact to determine food chain length in lentic (lake/pond) and lotic (river/stream) ecosystems.
+The project integrates empirical data from freshwater ecosystems with theoretical modeling to understand the drivers of food chain length (FCL) across global environmental gradients. The work examines how ecosystem size, productivity (nutrient availability), hydrological disturbance, apex predator body size, and climate zones interact to determine food chain length in >900 lentic (lake/pond) and lotic (river/stream) ecosystems.
 
 ## Project Structure
 
@@ -67,7 +67,29 @@ install.packages(c("ggplot2", "ggpubr", "dplyr", "readxl", "forcats",
 
 ## Workflow
 
-### 1. Data Preparation Phase
+### 1. Theoretical Models
+    #### 1.1 Simulations (Manual)
+**Script**: `Theoretical modelling/scripts/1_Theoretical_model_simulations.R`
+
+Runs the theoretical food web simulations and exports text outputs:
+- `result_Nut_Temp.txt`
+- `result_BSmax_Temp.txt`
+- `result_Disturb.txt`
+
+Note: this step is computationally intensive (hours) and is intentionally not auto-run in the script.
+
+   #### 1.2 Visualizations
+**Script**: `Theoretical modelling/scripts/2_Theoretical_model_representations.R`
+
+Generates visualizations of theoretical predictions:
+- Effect of productivity and temperature on FCL
+- Effect of apex predator body size and temperature on FCL
+- Effect of disturbance severity on FCL
+- Outputs: Figure 1 (theoretical) with 3 hypothesis panels
+- 
+### 2. Empirical patterns at global scale
+
+#### 2.1 Data Preparation Phase
 **Script**: `Global empirical patterns/scripts/1_datasets_preparation.R`
 
 This script:
@@ -77,7 +99,7 @@ This script:
 - Calculates species richness per site
 - Outputs: `complete_df.RData`, `Env.RData`, `df_fish_length_weights.RData`, `df_rich.RData`
 
-### 2. Descriptive Analysis
+#### 2.2 Descriptive Analysis
 **Script**: `Global empirical patterns/scripts/2_Description of the dataset.R`
 
 Creates Figure 1 showing:
@@ -87,7 +109,7 @@ Creates Figure 1 showing:
 - Climate zone representation
 - FCL distribution
 
-### 3. Main Statistical Analyses
+#### 2.3. Main Statistical Analyses
 **Script**: `Global empirical patterns/scripts/3_Analysis_Global_Patterns.R`
 
 Conducts hypothesis tests:
@@ -99,31 +121,14 @@ Conducts hypothesis tests:
 
 Outputs: Figure 2 and Figure 3 with hypothesis tests and model summaries
 
-### 4. Validation Checks
+#### 2.4. Validation Checks
 **Script**: `Global empirical patterns/scripts/4_further_checks.R`
 
 Validates FishBase data quality:
 - Compares measured apex predator sizes in the dataset vs. FishBase reports
 - Outputs: SI4 validation figure
 
-### 5. Theoretical Model Simulations (Manual)
-**Script**: `Theoretical modelling/scripts/1_Theoretical_model_simulations.R`
 
-Runs the theoretical food web simulations and exports text outputs:
-- `result_Nut_Temp.txt`
-- `result_BSmax_Temp.txt`
-- `result_Disturb.txt`
-
-Note: this step is computationally intensive (hours) and is intentionally not auto-run in the script.
-
-### 6. Theoretical Model Visualizations
-**Script**: `Theoretical modelling/scripts/2_Theoretical_model_representations.R`
-
-Generates visualizations of theoretical predictions:
-- Effect of productivity and temperature on FCL
-- Effect of apex predator body size and temperature on FCL
-- Effect of disturbance severity on FCL
-- Outputs: Figure 1 (theoretical) with 3 hypothesis panels
 
 ## Key Functions
 
@@ -164,15 +169,15 @@ Adds decorated borders, icons, and titles to ggplot2 plots for publication-quali
 
 ## Output Figures
 
+### Theoretical Models
+- **Figure 1 (Theory)**: Predicted effects of drivers on FCL
+
 ### Empirical Analysis
 - **Figure 1**: Dataset description and ecosystem characteristics
 - **Figure 2**: Main drivers of food chain length
 - **Figure 3**: Body-size constraints hypothesis
 - **SI2**: Species richness analysis
 - **SI4**: FishBase validation
-
-### Theoretical Models
-- **Figure 1 (Theory)**: Predicted effects of drivers on FCL
 
 ## Data Sources
 
@@ -192,15 +197,15 @@ Adds decorated borders, icons, and titles to ggplot2 plots for publication-quali
 1. Set working directory to project root (open `.Rproj` file in RStudio)
 2. Run scripts in order:
    ```R
+      # From Theoretical modelling/scripts/
+   # source("1_Theoretical_model_simulations.R") # Optional: long runtime simulation step
+   source("2_Theoretical_model_representations.R") # Theory figures
+   
    # From Global empirical patterns/scripts/
    source("1_datasets_preparation.R")     # Prepare data
    source("2_Description of the dataset.R") # Descriptive stats
    source("3_Analysis_Global_Patterns.R")    # Main analyses
    source("4_further_checks.R")           # Validation
-   
-   # From Theoretical modelling/scripts/
-   # source("1_Theoretical_model_simulations.R") # Optional: long runtime simulation step
-   source("2_Theoretical_model_representations.R") # Theory figures
    ```
 
 ### Using the `here` package
@@ -218,20 +223,25 @@ The project uses an 18-class climate classification system, grouped into 6 broad
 - **Hot and moist**: High temperature with moisture
 - **Hot and dry**: Hot and arid conditions
 
-## Author
+## Authors
 
 **Marie-Elodie Perga**  
 *marie-elodie.perga@unil.ch*
 
 University of Lausanne (UNIL)
 
+**Elisa Thébault**  
+*elisa.thebault@sorbonne-universite.fr*
+
+Sorbonne Université
+
 ## Citation
 
 If you use this code or data in your research, please cite:
 
 ```
-Perga, M.-E., et al. (2026). Climate constrains whether food chain length 
-increases with ecosystem size via body-size effects. [Journal]. 
+Perga, M.-E., and Thébault, E. (2026). [Codes] Climate constrains whether food chain length 
+increases with ecosystem size via body-size effects. [xxx]. 
 DOI: [To be added]
 ```
 
